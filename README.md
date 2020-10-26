@@ -1,2 +1,5 @@
-# ksg_web
-KSG Public Web Site
+# KSG Web Site
+
+To generate the web site, run:
+
+    jekyll serve
