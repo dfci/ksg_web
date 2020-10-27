@@ -18,6 +18,12 @@ Roshni Biswas is a Bioinformatics Software Engineer within the Knowledge Systems
 ### Tiarah Jeudi
 Tiarah Jeudi is an Administrator Support Specialist within the Knowledge Systems Group. Prior to joining Dana Farber, Tiarah acquired over 10 years of support experience from working in a number of industries. Tiarah holds a B.A. in Applied Psychology and Human Development and Studio Arts from Boston College.
 
+### Harry Klein
+Harry Klein, Ph.D. is a Genomics Scientist within the group. Prior to joining Dana-Farber, Harry received his Ph.D. in Plant Biology from the University of Massachusetts Amherst where he studied programmed cell death in grass flower development. He brings expertise in genetics, genomics, and computational biology. Within the Knowledge Systems Group, Harry will focus on assessing the impact of MatchMiner, a platform for algorithmically matching genomic profiles to clinical trials. 
+
+### Elyse Kozlowski
+Elyse Kozlowski, Ph.D. is a Senior Scientist within the Knowledge Systems Group and the Scientific Program Manager for the Human Tumor Atlas Network Data Coordinating Center, a Cancer Moonshot initiative to construct 3-dimensional atlases of human cancers. Prior to joining Dana-Farber, Elyse served as Program Manager for the University of Arizona-Banner Health All of Us Research Program, a longitudinal research program to accelerate health research and precision medicine. Elyse received her Ph.D. in Genetics & Genomics from Boston University, where she studied post-transcriptional regulation of the immune response in pneumonia.
+
 ### Priti Kumari
 Priti Kumari, M.S. is Senior Bioinformatics Team Lead within the group.  Prior to joining Dana-Farber, Priti worked as a Bioinformatics Software Engineer at the University of Maryland School of Medicine, Institute For Genome Sciences.  She brings expertise in bioinformatics, genomics, and next-generation sequence analysis.  Within the Knowledge Systems Group, Priti leads development of the cBioPortal @ DFCI, an online portal for mining all sequencing data at Dana-Farber.
 
