@@ -59,6 +59,9 @@ Luke Sikina is a Software Engineer within the Knowledge Systems Group, working p
 ### Pavel Trukhanov 
 Pavel Trukhanov is a Sr. Software Engineer within the Knowledge Systems Group, working primarily on the Cancer Immunologic Data Commons (CIDC).  Prior to joining Dana Farber, Pavel was a Co-founder of [Okmeter.io](http://okmeter.io), a software monitoring and reliability company that simplifies monitoring of complex web systems and databases with a SaaS solution. He is a Linux and web systems expert, who is also passionate about bioinformatics and biotechnology. Within the Knowledge Systems Group, Pavel is our lead software engineer for the Cancer Immunology Data Commons project.
 
+### Stephen C. Van Nostrand
+Stephen C. Van Nostrand is a Software Engineer, who came to the Knowledge Systems Group after graduating with a Master's in Biological Engineering from MIT. Stephen works primarily on the Cancer Immunological Data Commons (CIDC), with experience with both the technological and biological aspects of cancer research. They're excited to contribute to cutting-edge scientific advancement by way of opening up data sharing.
+
 ### Nithya Venkatamohan
 Nithya Venkatamohan, M.S. is Senior Clinical Informatics Analyst within the Knowledge Systems Group. She holds a M.S. in Health Informatics & Management from the University of Massachusetts and a Bachelor's in Dental Surgery. She brings expertise in clinical terminologies, data standardization and analytics. Within KSG, Nithya will focus on clinical data standardization for Human Tumor Atlas Network Data Coordinating Center (HTAN DCC) efforts and CIDC projects.
 
