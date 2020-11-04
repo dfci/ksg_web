@@ -46,9 +46,11 @@ Tali Mazor, Ph.D., is a Computational Biology Scientist within the group. Prior 
 Andrea Ovalle is a Bioinformatics Analyst within the Knowledge Systems Group.  She holds a B.A. in Neuroscience from Smith College and is currently pursuing a M.S. in Software Development at BU. Within KSG, Andrea works on the MatchMiner platform, where she is responsible for the curation, maintenance and data analysis of clinical trials currently hosted within the platform.
 
 ### Dai Phan
-Dai Phan is a Software Engineer within the Knowledge Systems Group.  Prior to joining Dana-Farber, Dai worked at Dell-EMC where he was part of the automation support team, providing tools and services to support the testing of features for the VMAX storage. 
-As a member of the KSG, Dai is responsible for front-end and backend support for
+Dai Phan is a Software Engineer within the Knowledge Systems Group.  Prior to joining Dana-Farber, Dai worked at Dell-EMC where he was part of the automation support team, providing tools and services to support the testing of features for the VMAX storage.  As a member of the KSG, Dai is responsible for front-end and backend support for
 the ImmunoProfile project.
+
+### Joyce Quach
+Joyce Quach is a Software Engineer Intern within the Knowledge Systems Group, working primarily on the cBioPortal. She is currently pursuing her B.S. in Computer Science at University of Massachusetts Boston. Prior to KSG, she participated in the Summer Program to Advance Research Careers (SPARC) provided by the Dana-Farber/Harvard Cancer Center (DF/HCC) and UMB partnership, where she helped develop a pipeline component for fusion genes in the Computational Biology Group at UMB. In KSG, Joyce has been working on the cBioPortal installation map. 
 
 ### Ethan Siegel
 Ethan Siegel is a Software Engineer within the Knowledge Systems Group. Prior to working at Dana Farber, Ethan worked at various startups and companies around the Boston area. He is passionate about web development technologies. Within the Knowledge Systems Group, Ethan works on the MatchMiner and cBioPortal projects. 
