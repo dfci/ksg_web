@@ -12,7 +12,7 @@ Beyond sharing of software, we are also strong believers in "big data" for cance
 
 <img style="float: right; margin: 20px" src="/knowledge-systems/assets/images/cimac.png" alt="KSG Group Photo" width=250px>
 
-We are the data coordinating center for the <a href="https://cimac-network.org/">CIMAC-CIDC Immuno-Oncology Biomarkers Network</a>.  In collaboration with <a href="http://liulab.dfci.harvard.edu/">X. Shirley Liu</a>, we serve the bioinformatics needs of the network, optimization of data collection methodologies suitable for immune-related biomarkers, data integration and building of a biomarker database for the secondary use by the larger immuno-oncology community.
+We are the data coordinating center for the <a href="https://cimac-network.org/">CIMAC-CIDC Immuno-Oncology Biomarkers Network</a>.  In collaboration with <a href="http://liulab.dfci.harvard.edu/">X. Shirley Liu</a>, we serve the bioinformatics needs of the network, optimization of data collection methodologies suitable for immune-related biomarkers, data integration and building of a biomarker database for the secondary use by the larger immuno-oncology community. The source code of the project is <a href="https://github.com/CIMAC-CIDC/">fully open and hosted on GitHub</a>. 
 
 # cBioPortal for Cancer Genomics
 
