@@ -11,7 +11,6 @@ We currently support a large portfolio of projects, in the areas of cancer genom
 
 We are also growing, and always looking for new recruits to join our team.
 
-
-<img src="/knowledge-systems/assets/images/zoom1.png" alt="KSG Group Photo" width=75%>
+<img src="/knowledge-systems/assets/images/zoom1.png" alt="KSG Group Photo">
 
 <p>Here we are on Zoom, our new home during Covid-19!  All KSG work continues on...</p>

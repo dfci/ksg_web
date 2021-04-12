@@ -4,7 +4,7 @@ title: Open Positions
 permalink: /positions/
 ---
 
-<img src="/knowledge-systems/assets/images/group3.jpg" alt="KSG Group Photo" width=65%>
+<img src="/knowledge-systems/assets/images/group3.jpg" alt="KSG Group Photo">
 <p>Here we are in pre-Covid days!</p>
 <p>Come work with us!  We have several open positions!</p>
 

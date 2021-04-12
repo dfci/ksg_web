@@ -10,7 +10,7 @@ Beyond sharing of software, we are also strong believers in "big data" for cance
 
 # Cancer Immunologic Data Commons (CIDC)
 
-<img style="float: right; margin: 20px" src="/knowledge-systems/assets/images/cimac.png" alt="KSG Group Photo" width=250px>
+<img style="float: right; margin: 20px" src="/knowledge-systems/assets/images/cimac.png" alt="CIMAC Logo" width=250px>
 
 We are the data coordinating center for the <a href="https://cimac-network.org/">CIMAC-CIDC Immuno-Oncology Biomarkers Network</a>.  In collaboration with <a href="http://liulab.dfci.harvard.edu/">X. Shirley Liu</a>, we serve the bioinformatics needs of the network, optimization of data collection methodologies suitable for immune-related biomarkers, data integration and building of a biomarker database for the secondary use by the larger immuno-oncology community. The source code of the project is <a href="https://github.com/CIMAC-CIDC/">fully open and hosted on GitHub</a>. 
 
@@ -25,7 +25,7 @@ The <a href="http://cbioportal.org">cBioPortal for Cancer Genomics</a> is one of
 Together with Sage Bionetworks, the Institute for Systems Biology, and Memorial Sloan Kettering Cancer Center, we are the Data Coordinating Center (DCC) for the Human Tumor Atlas Network (HTAN).  HTAN is a large "Moonshot" project funded by the National Cancer Institute, which will focus on longitudinal studies of pre-cancer, metastasis, and drug resistance with an emphasis on collecting comprehensive clinical data over time.  The DCC will be the central data coordinating center for the network. 
 
 
-# MatchMiner#
+# MatchMiner
 <img style="float: right; margin: 20px" src="https://raw.github.com/ecerami/ecerami.github.io/master/img/match_miner.png" width=250px> <a href="https://matchminer.org/">MatchMiner</a> is an open source computational platform for matching patient-specific genomic profiles to precision cancer medicine clinical trials.  It is currently in active use within DFCI and now available to both trial investigators and practicing oncologists.
 
 # Profile and ImmunoProfile

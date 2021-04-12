@@ -4,7 +4,7 @@ title: Team
 permalink: /team/
 ---
 
-<img src="/knowledge-systems/assets/images/zoom1.png" alt="KSG Group Photo" width=65%>
+<img src="/knowledge-systems/assets/images/zoom1.png" alt="KSG Group Photo">
 
 ### Ethan Cerami
 Ethan Cerami, Ph.D. is the Director of the Knowledge Systems Group and Principal Scientist in the Department of Data Sciences at Dana-Farber Cancer Institute. Prior to joining Dana-Farber, Ethan was the Director of Computational Biology at Blueprint Medicines, and Director of Cancer Informatics Development at Memorial Sloan Kettering Cancer Center (MSKCC).  While at MSKCC, Ethan co-founded the <a href="http://cbioportal.org">cBioPortal for Cancer Genomics</a>, and the group remains active in its continued development.
