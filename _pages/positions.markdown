@@ -9,6 +9,3 @@ permalink: /positions/
 <p>Come work with us!  We have several open positions!</p>
 
 If you are software engineer, and curious what we do here, check out <a href='../ksg_engineers/'>KSG for Engineers</a>.
-
-* <a href="../cbioportal-intern/">cBioPortal Intern</a>
-
