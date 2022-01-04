@@ -30,12 +30,6 @@ Priti Kumari, M.S. is Senior Bioinformatics Team Lead within the group.  Prior t
 ### Rochelle Levy
 Rochelle Levy is the Program Coordinator for KSG as well as the HTAN DCC Scientific Project Coordinator. Prior to joining KSG, Rochelle was the executive assistant to Dr. George Demetri in the Sarcoma department within DFCI where she coordinated events, acted as a liaison between patients and physicians and assisted in managing academic appointments and day to day operations for all Sarcoma physicians. Rochelle holds a bachelors degree in business management and graphic design and has over ten years in healthcare and business administration. Rochelle wears many hats and also assists in various projects by utilizing her unique organization and management techniques as well as graphic and web design skills to propel projects forward.
 
-### Pieter Lukasse
-Pieter Lukasse, M.S. is the Team Lead, Bioinformatics Engineering within the Knowledge Systems Group, working primarily on the BWH/DFCI Profile Clinical Sequencing Project.  Prior to joining Dana-Farber, Pieter worked as Senior Software Architect and Lead Developer in the Cancer Genomics team at The Hyve. At The Hyve, Pieter helped lead custom development efforts for cBioPortal and Open Targets, two popular Open Source projects for cancer research and drug discovery, respectively. Pieter holds a B.Sc. in Computer Science and M.Sc. in Bioinformatics and has extensive experience in software development, systems integration and software architecture in general, working in the field of software development since 1999.
-
-### Jacob Lurye
-Jacob Lurye is a Software Engineer within the Knowledge Systems Group. Prior to joining Dana-Farber, Jacob worked in data science at Apple and software engineering at a Boston-area startup. As a member of the KSG, Jacob is developing software for the Cancer Immunological Data Commons (CIDC). He is excited about Open Source’s potential to accelerate scientific discovery. 
-
 ### Tali Mazor
 Tali Mazor, Ph.D., is a Computational Biology Scientist within the group. Prior to joining Dana-Farber, Tali received her Ph.D. in Biomedical Sciences from the University of California San Francisco where she studied the heterogeneity and evolution of brain tumor genomics and epigenomics. She brings expertise in genomics, translational cancer research and computational biology. Within the Knowledge Systems Group, Tali will focus on several initiatives, including outreach and training for cBioPortal and genomic analysis of data from the Profile and GENIE projects.
 
