@@ -48,10 +48,6 @@ Having the option to work remotely is important for all members of KSG, and we f
 
 Over the years, we have therefore developed a KSG policy of a "remote day bank" — each member of KSG can work remotely up to 5 days / month, and we simply track days via a common google spreadsheet.
 
-# 6 Week BootCamp for New Engineers
-
-New engineers at KSG usually go through a 6-week “bootcamp”.  We usually pick three projects for rotation, and the new person will spend 2 weeks on each project, getting to know each project and each team.  This gives you an introduction to the scope of work going on here, and also enables you to meet everyone and start your initial contributions.
-
 # Supporting Full Stack Engineers and Continued Career Growth
 
 We tend to hire people for an initial specific area of expertise, e.g. front end or dev-ops.  But, we support all of our engineers in becoming full-stack engineers.  And, we support engineers in continued career growth via online course subscriptions, mentoring, and conferences.
