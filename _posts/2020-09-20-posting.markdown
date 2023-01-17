@@ -1,8 +1,0 @@
----
-layout: post
-title:  Blog Post #1
-date:   2020-09-20
----
-
-Hello, world!  We are rebooting our KSG web site.  Stay tuned for future blog posts...
-

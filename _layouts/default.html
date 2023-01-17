@@ -2,10 +2,13 @@
 <html class="t-{{ site.theme }}">
   {% include head.html %}
   <body>
+    <div class="container">
     {% include navigation.html %}
-
-    {{ content }}
-
+    <div class="row">
+      <div class="col-8">
+        {{ content }}
+      </div>
+    </div>
     {% include footer.html %}
   </body>
 </html>

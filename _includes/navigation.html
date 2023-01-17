@@ -1,7 +1,12 @@
-<nav class="c-navigation {% if site.fixedNav == 'true' %}is-fixed{% endif %}">
-  <div class="c-navigation__container u-container">
-    <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}" href="{{ "/" | prepend: site.baseurl }}">Home</a>
-	<a class="c-navigation__item {% if page.url == '/projects/' %}is-active{% endif %}" href="{{ "/projects" | prepend: site.baseurl }}">Projects</a>
-	<a class="c-navigation__item {% if page.url == '/team/' %}is-active{% endif %}" href="{{ "/team/" | prepend: site.baseurl }}">Team</a>
+<div class="container">
+  <div class="row">
+    <div class="col-6">
+      <img id="logo" src="https://www.dana-farber.org/ui/images/img-logo-2x-new.webp">
+    </div>
+    <div class="col-4 mt-3">
+      <a href="/knowledge-systems/">KSG:  Home</a> |
+    	<a href="/knowledge-systems/projects">Projects</a> |
+	    <a href="/knowledge-systems/team">Team</a>
+    </div>
   </div>
-</nav>
+</div>

@@ -1,11 +1,11 @@
-<footer class="c-footer">
-  <div class="u-container c-footer__container">
-    <p>&copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
-    <p>
-      {% if site.twitterUsername %}<a href="https://twitter.com/{{ site.twitterUsername }}">Twitter</a>{% endif %}
-      {% if site.githubUsername %}<a href="https://github.com/{{ site.githubUsername }}">Github</a>{% endif %}
-      {% if site.dribbbleUsername %}<a href="https://dribbble.com/{{ site.dribbbleUsername }}">Dribbble</a>{% endif %}
-      {% if site.codepenUsername %}<a href="http://codepen.io/{{ site.codepenUsername }}">CodePen</a>{% endif %}
-    </p>
+<div id="footer" class="border-top">
+  <div class="row">
+    <div class="col-3">
+      <p class="fw-light">&copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
+    </div>
+    <div class="col-8">
+        <a class="fw-light text-decoration-none" href="https://ds.dfci.harvard.edu/">Department of Data Science</a>&nbsp;|
+        <a class="fw-light text-decoration-none" href="https://www.dana-farber.org/">Dana-Farber Cancer Institute</a>
+    </div>
   </div>
-</footer>
+</div>
