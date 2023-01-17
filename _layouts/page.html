@@ -9,27 +9,9 @@ layout: default
   </header>
 
   <div style="margin-left:2.5rem; margin-right:2.5rem;margin-top:20px">
-  <table cellspacing=20>
-  <tr valign=top>
-  <td>
-	  <div class="c-article__main">
-	    {{ content }}
-	  </div>
-  </td>
-
-  <td width=25%>
-	<h2>KSG Blog</h2>
-	{% for post in site.posts limit:10%}
-        <li class="c-archives__item">
-            <h3><a href="{{ post.url | prepend: site.baseurl }}.html">{{ post.title }}</a></h3>
-            <p>{{ post.date | date: "%b %-d, %Y" }}</p>
-			<p>{{ post.content | truncatewords: 25 }}</p>
-        </li>
-	{% endfor %}
-	</ul>
-	</td>
-    </tr>
-    </table>
+    <div class="c-article__main">
+        {{ content }}
+    </div>
 	</div>
 </article>
 

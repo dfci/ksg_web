@@ -12,7 +12,7 @@ Beyond sharing of software, we are also strong believers in "big data" for cance
 
 <img style="float: right; margin: 20px" src="/knowledge-systems/assets/images/cimac.png" alt="CIMAC Logo" width=250px>
 
-We are the data coordinating center for the <a href="https://cimac-network.org/">CIMAC-CIDC Immuno-Oncology Biomarkers Network</a>.  In collaboration with <a href="http://liulab.dfci.harvard.edu/">X. Shirley Liu</a>, we serve the bioinformatics needs of the network, optimization of data collection methodologies suitable for immune-related biomarkers, data integration and building of a biomarker database for the secondary use by the larger immuno-oncology community. The source code of the project is <a href="https://github.com/CIMAC-CIDC/">fully open and hosted on GitHub</a>. 
+We are the data coordinating center for the <a href="https://cimac-network.org/">CIMAC-CIDC Immuno-Oncology Biomarkers Network</a>.  We serve the bioinformatics needs of the network, optimization of data collection methodologies suitable for immune-related biomarkers, data integration and building of a biomarker database for the secondary use by the larger immuno-oncology community. The source code of the project is <a href="https://github.com/CIMAC-CIDC/">fully open and hosted on GitHub</a>. 
 
 # cBioPortal for Cancer Genomics
 
@@ -22,7 +22,7 @@ The <a href="http://cbioportal.org">cBioPortal for Cancer Genomics</a> is one of
 
 # Human Tumor Atlas Network (HTAN)
 
-Together with Sage Bionetworks, the Institute for Systems Biology, and Memorial Sloan Kettering Cancer Center, we are the Data Coordinating Center (DCC) for the Human Tumor Atlas Network (HTAN).  HTAN is a large "Moonshot" project funded by the National Cancer Institute, which will focus on longitudinal studies of pre-cancer, metastasis, and drug resistance with an emphasis on collecting comprehensive clinical data over time.  The DCC will be the central data coordinating center for the network. 
+Together with Sage Bionetworks, the Institute for Systems Biology, and Memorial Sloan Kettering Cancer Center, we are the Data Coordinating Center (DCC) for the <a href="https://humantumoratlas.org/">Human Tumor Atlas Network (HTAN)</a>.  HTAN is a large "Moonshot" project funded by the National Cancer Institute, which will focus on longitudinal studies of pre-cancer, metastasis, and drug resistance with an emphasis on collecting comprehensive clinical data over time.  The DCC is the central data coordinating center for the network. 
 
 
 # MatchMiner
