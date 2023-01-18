@@ -22,6 +22,9 @@ Harry Klein, Ph.D. is a Genomics Scientist within the group. Prior to joining Da
 ## Rochelle Levy
 Rochelle Levy is the Program Coordinator for KSG as well as the HTAN DCC Scientific Project Coordinator. Prior to joining KSG, Rochelle was the executive assistant to Dr. George Demetri in the Sarcoma department within DFCI where she coordinated events, acted as a liaison between patients and physicians and assisted in managing academic appointments and day to day operations for all Sarcoma physicians. Rochelle holds a bachelors degree in business management and graphic design and has over ten years in healthcare and business administration. Rochelle wears many hats and also assists in various projects by utilizing her unique organization and management techniques as well as graphic and web design skills to propel projects forward.
 
+## Luke Sikina
+Luke Sikina is a Software Engineer within the Knowledge Systems Group, working primarily on the cBioPortal. Previously, he worked at a startup in Cleveland, developing software solutions for precision oncology workflows. Luke is a strong believer in the importance of free and open source software solutions, and is excited to contribute to such solutions within cancer genomics.
+
 ## Pavel Trukhanov 
 Pavel Trukhanov is a Sr. Software Engineer within the Knowledge Systems Group, working primarily on the Cancer Immunologic Data Commons (CIDC).  Prior to joining Dana Farber, Pavel was a Co-founder of [Okmeter.io](http://okmeter.io), a software monitoring and reliability company that simplifies monitoring of complex web systems and databases with a SaaS solution. He is a Linux and web systems expert, who is also passionate about bioinformatics and biotechnology. Within the Knowledge Systems Group, Pavel is our lead software engineer for the Cancer Immunology Data Commons project.
 
