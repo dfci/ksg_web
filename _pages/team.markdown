@@ -43,9 +43,6 @@ Satyakam Mishra is a Computational Biologist in the KSG, working primarily on th
 ## Allison Nau
 Allison Nau is a Computational Biologist within the group, working on projects in collaboration with the Center for Immuno-Oncology’s Immune Assessment Laboratory and Tissue Biomarker Laboratory. Allison has her M.S. in Bioinformatics from Boston University, with wet lab experience in CyTOF, FACS, TCR sequencing, and peptide-MHC tetramers.
 
-## Luke Sikina
-Luke Sikina is a Software Engineer within the Knowledge Systems Group, working primarily on the cBioPortal. Previously, he worked at a startup in Cleveland, developing software solutions for precision oncology workflows. Luke is a strong believer in the importance of free and open source software solutions, and is excited to contribute to such solutions within cancer genomics.
-
 ## Tiarah Thomas
 Tiarah Thomas is an Administrator Support Specialist within the Knowledge Systems Group. Prior to joining Dana Farber, Tiarah acquired over 10 years of support experience from working in a number of industries.  Tiarah holds a B.A. in Applied Psychology and Studio Arts from Boston College.
 
