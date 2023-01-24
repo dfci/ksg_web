@@ -43,6 +43,9 @@ Satyakam Mishra is a Computational Biologist in the KSG, working primarily on th
 ## Allison Nau
 Allison Nau is a Computational Biologist within the group, working on projects in collaboration with the Center for Immuno-Oncology’s Immune Assessment Laboratory and Tissue Biomarker Laboratory. Allison has her M.S. in Bioinformatics from Boston University, with wet lab experience in CyTOF, FACS, TCR sequencing, and peptide-MHC tetramers.
 
+## James Provencher 
+James Provencher is a software engineer in the Knowledge Systems group. He is working on the Cancer Immunological Data Commons (CIDC) until its transfer to the NCI and is transitioning to work on simplifying data sharing processes within the Institute. James joined the group after earning his M.S. in Computer Science from the University of Massachusetts Lowell and is interested in facilitating research through his engineering efforts.
+
 ## Tiarah Thomas
 Tiarah Thomas is an Administrator Support Specialist within the Knowledge Systems Group. Prior to joining Dana Farber, Tiarah acquired over 10 years of support experience from working in a number of industries.  Tiarah holds a B.A. in Applied Psychology and Studio Arts from Boston College.
 
