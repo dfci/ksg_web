@@ -22,6 +22,9 @@ Ian Dryg, Ph.D. is a Scientist within the Knowledge Systems Group. Ian received 
 ## Matthew Galvin 
 Matthew Galvin is a software architect within the Knowledge Systems Group. His expertise lies in bioinformatics pipelining, data analysis, and full-stack web development. Prior to joining Dana-Farber he worked at Invitae, the Providence Cancer Institute, and Illumina. At KSG, Matthew primarily contributes to the MatchMiner project.  He has a B.S. in Chemical Engineering from Oregon State University, and his interests include human health, computer science, and philosophy. 
 
+## Jason Hansel 
+Jason Hansel is a software engineer in the Knowledge Systems Group. He works primarily on MatchMiner, developing tools to connect patients with precision medicine clinical trials. Prior to joining Dana-Farber, Jason worked at Amazon, where he helped to launch Amazon Pharmacy. Jason has a B.A. in Computer Science and Philosophy from Williams College.
+
 ## Philip Keighley
 Philip Keighley brings nearly two decades experience in software development to Knowledge Systems Group.  With his background in software development and on-prem and cloud infrastructure, Phil is now helping KSG design and deliver critical software systems which enable researchers inside and outside the organization to engage with and be able to analyze the wealth of data produced at KSG.  Previously, Phil has played a transformative role in industries such as telecommunications, semiconductors, and service management.
 
