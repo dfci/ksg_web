@@ -19,6 +19,9 @@ Michael D'Eletto is the Lead Software Engineer for the Profile team within the K
 ## Ian Dryg
 Ian Dryg, Ph.D. is a Scientist within the Knowledge Systems Group. Ian received his Ph.D. in Bioengineering from the University of Washington where he studied inflammatory effects of novel biomaterial implants in the brain. During this time, he gained extensive experience with ImmunoFluorescence (IF) Microscopy and some image analysis. Ian expanded on these skills during his postdoc at New York University, where he utilized CODEX multiplexed IF and single cell RNA Sequencing to study melanoma. At Dana-Farber, Ian supports the Center for Immuno-Oncology and the Tissue Biomarker Lab with computational and bioinformatics analyses. Ian is especially interested in digital pathology, spatial biology, and multiplexed and single-cell technologies.
 
+## Erica Holdmore
+Erica Holdmore, Ph.D. is a Computational Biologist in the NSG Bioinformatics Group. Erica earned a bachelors degree from Florida State University, a master from California State University Northridge, and a doctorate from Yale University. She has hands-on experience with every step of the NGS pipeline, from sample collection to library prep to data analysis. Erica applies her expertise in developing and implementing bioinformatics pipelines for a variety of sequencing technologies to her work at DFCI, primarily for the Profile Project. 
+
 ## Matthew Galvin 
 Matthew Galvin is a software architect within the Knowledge Systems Group. His expertise lies in bioinformatics pipelining, data analysis, and full-stack web development. Prior to joining Dana-Farber he worked at Invitae, the Providence Cancer Institute, and Illumina. At KSG, Matthew primarily contributes to the MatchMiner project.  He has a B.S. in Chemical Engineering from Oregon State University, and his interests include human health, computer science, and philosophy. 
 
