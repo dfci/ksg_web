@@ -19,6 +19,9 @@ Michael D'Eletto is the Lead Software Engineer for the Profile team within the K
 ## Ian Dryg
 Ian Dryg, Ph.D. is a Scientist within the Knowledge Systems Group. Ian received his Ph.D. in Bioengineering from the University of Washington where he studied inflammatory effects of novel biomaterial implants in the brain. During this time, he gained extensive experience with ImmunoFluorescence (IF) Microscopy and some image analysis. Ian expanded on these skills during his postdoc at New York University, where he utilized CODEX multiplexed IF and single cell RNA Sequencing to study melanoma. At Dana-Farber, Ian supports the Center for Immuno-Oncology and the Tissue Biomarker Lab with computational and bioinformatics analyses. Ian is especially interested in digital pathology, spatial biology, and multiplexed and single-cell technologies.
 
+## Zhaoyuan (Ryan) Fu
+Zhaoyuan (Ryan) Fu is a software engineer in the Knowledge Systems group. He is primarily working on the public cBioPortal and the local cBioPortal @ DFCI. Ryan joined KSG after earning his M.S. in Electrical and Computer Engineering from Boston University. He brings skills of a full-stack developer, such as React for frontend, Spring Boot for backend, as well as knowledge for databases and containers.
+
 ## Erica Holdmore
 Erica Holdmore, Ph.D. is a Computational Biologist in the NSG Bioinformatics Group. Erica earned a bachelors degree from Florida State University, a master from California State University Northridge, and a doctorate from Yale University. She has hands-on experience with every step of the NGS pipeline, from sample collection to library prep to data analysis. Erica applies her expertise in developing and implementing bioinformatics pipelines for a variety of sequencing technologies to her work at DFCI, primarily for the Profile Project. 
 
