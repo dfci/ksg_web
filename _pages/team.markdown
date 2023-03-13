@@ -22,6 +22,9 @@ Ian Dryg, Ph.D. is a Scientist within the Knowledge Systems Group. Ian received 
 ## Zhaoyuan (Ryan) Fu
 Zhaoyuan (Ryan) Fu is a software engineer in the Knowledge Systems group. He is primarily working on the public cBioPortal and the local cBioPortal @ DFCI. Ryan joined KSG after earning his M.S. in Electrical and Computer Engineering from Boston University. He brings skills of a full-stack developer, such as React for frontend, Spring Boot for backend, as well as knowledge for databases and containers.
 
+## Gufran Gungor
+Gufran Gungor is a software engineer in the Knowledge Systems Group. His background lies in Molecular Biology and Genetics. Prior to his position at DFCI Gufran worked at Yale New Haven Hospital, Exact Sciences, and Genomize in bioinformatics. Throughout his career he has specialized in clinical bioinformatics with an emphasis on NGS pipeline development both on premise and on the cloud. 
+
 ## Erica Holdmore
 Erica Holdmore, Ph.D. is a Computational Biologist in the NSG Bioinformatics Group. Erica earned a bachelors degree from Florida State University, a master from California State University Northridge, and a doctorate from Yale University. She has hands-on experience with every step of the NGS pipeline, from sample collection to library prep to data analysis. Erica applies her expertise in developing and implementing bioinformatics pipelines for a variety of sequencing technologies to her work at DFCI, primarily for the Profile Project. 
 
