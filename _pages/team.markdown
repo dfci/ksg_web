@@ -16,9 +16,6 @@ Guruprasad Ananda, Ph.D., is a Lead Scientist and the Director of the NGS Bioinf
 ## Michael D'Eletto
 Michael D'Eletto is the Lead Software Engineer for the Profile team within the Knowledge Systems Group. Mike possesses a Masters in Bioinformatics from NYU. Prior to joining the Knowledge Systems Group, he led the bioinformatics group within the Tumor Profiling Laboratory at Yale New Haven Hospital, and was responsible for developing custom bioinformatics workflows and applications to support clinical sequencing efforts. His expertise lies strongly in the realm of clinical bioinformatics, which poses its own unique regulatory challenges that require additional consideration during the devops process. He is very excited to contribute to KSG, and has a passion for creating software that will help to translate data into meaningful observations.
 
-## Ian Dryg
-Ian Dryg, Ph.D. is a Scientist within the Knowledge Systems Group. Ian received his Ph.D. in Bioengineering from the University of Washington where he studied inflammatory effects of novel biomaterial implants in the brain. During this time, he gained extensive experience with ImmunoFluorescence (IF) Microscopy and some image analysis. Ian expanded on these skills during his postdoc at New York University, where he utilized CODEX multiplexed IF and single cell RNA Sequencing to study melanoma. At Dana-Farber, Ian supports the Center for Immuno-Oncology and the Tissue Biomarker Lab with computational and bioinformatics analyses. Ian is especially interested in digital pathology, spatial biology, and multiplexed and single-cell technologies.
-
 ## Zhaoyuan (Ryan) Fu
 Zhaoyuan (Ryan) Fu is a software engineer in the Knowledge Systems group. He is primarily working on the public cBioPortal and the local cBioPortal @ DFCI. Ryan joined KSG after earning his M.S. in Electrical and Computer Engineering from Boston University. He brings skills of a full-stack developer, such as React for frontend, Spring Boot for backend, as well as knowledge for databases and containers.
 
@@ -55,9 +52,6 @@ Tali Mazor, Ph.D., is an Associate Director and Lead Scientist within the group.
 ## Satyakam Mishra
 Satyakam Mishra is a Computational Biologist in the KSG, working primarily on the Profile Project. He completed his Masters from CWRU in Systems Biology and Bioinformatics. He then worked in a lab at Case where he helped develop AWS based analyses and containerization of various NGS pipelines for the lab. He brings a mixture of biological, statistical and programming skills which he aims to develop further by contributing to the exciting ongoing research in Profile and in KSG.
 
-## Allison Nau
-Allison Nau is a Computational Biologist within the group, working on projects in collaboration with the Center for Immuno-Oncology’s Immune Assessment Laboratory and Tissue Biomarker Laboratory. Allison has her M.S. in Bioinformatics from Boston University, with wet lab experience in CyTOF, FACS, TCR sequencing, and peptide-MHC tetramers.
-
 ## James Provencher 
 James Provencher is a software engineer in the Knowledge Systems group. He is working on the Cancer Immunological Data Commons (CIDC) until its transfer to the NCI and is transitioning to work on simplifying data sharing processes within the Institute. James joined the group after earning his M.S. in Computer Science from the University of Massachusetts Lowell and is interested in facilitating research through his engineering efforts.
 
@@ -69,9 +63,6 @@ Pavel Trukhanov does modern software engineering within the Knowledge Systems Gr
 
 ## Stephen C. Van Nostrand
 Stephen C. Van Nostrand is a Software Engineer, who came to the Knowledge Systems Group with a Master’s in Biological Engineering from MIT, with experience with both the technological and biological aspects of cancer research. Stephen is the technical lead for the Cancer Immunological Data Commons (CIDC) until its transfer to the NCI. They’re now excited to continue contributing to cutting-edge scientific advancement by simplifying data sharing and analysis within Dana Farber.
-
-## Jason L. Weirather
-Jason L. Weirather, Ph.D. is a Lead Scientist at the Dana-Farber Cancer Institute (DFCI) where he leads the Computational Biology Group and provides informatics support to the Center for Immuno-Oncology (CIO). His group focuses on analyzing data from immuno-oncology trials to understand which patients will benefit from immunotherapies by examining the tumor-immune microenvironment and overall state of the patient's immune system. With data from specialized assays such as multiplexed immunofluorescence (tissue imaging) and mass cytometry (peripheral blood, immune populations), Dr. Weirather and his team work to provide clinicians and researchers with the most informative data and collaborate with the larger DFCI community to improve these analysis methods.
 
 ## Joyce Yu
 Joyce Yu, M.B.A. is a Program Manager within the Knowledge Systems Group. Prior to joining KSG, Joyce was a Project Analyst for Research Administration in the Department of Medicine at Brigham and Women’s Hospital. She brings clinical research project expertise, from patient recruitment and data collection, all the way to grants management and leading large research projects. Currently within KSG, Joyce is working on the Cancer Immunological Data Commons (CIDC).

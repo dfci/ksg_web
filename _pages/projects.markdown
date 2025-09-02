@@ -4,16 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-## AACR GENIE
-
-Beyond sharing of software, we are also strong believers in "big data" for cancer and sharing of genomic data across multiple institutions.  DFCI is therefore a founding member of the <a href="http://www.aacr.org/Research/Research/Pages/aacr-project-genie.aspx#.VtcMH5MrJ0I">AACR Project GENIE</a>, a new initiative for sharing genomic data across multiple cancer centers.
-
-## Cancer Immunologic Data Commons (CIDC)
-
-<img style="float: right; margin: 20px" src="/knowledge-systems/assets/images/cimac.png" alt="CIMAC Logo" width=250px>
-
-We are the data coordinating center for the <a href="https://cimac-network.org/">CIMAC-CIDC Immuno-Oncology Biomarkers Network</a>.  We serve the bioinformatics needs of the network, optimization of data collection methodologies suitable for immune-related biomarkers, data integration and building of a biomarker database for the secondary use by the larger immuno-oncology community. The source code of the project is <a href="https://github.com/CIMAC-CIDC/">fully open and hosted on GitHub</a>. 
-
 ## cBioPortal for Cancer Genomics
 
 <img style="float: right; margin: 20px" src="http://www.cbioportal.org/images/cbioportal_logo.png" width=250px>
@@ -30,5 +20,5 @@ Together with Sage Bionetworks, the Institute for Systems Biology, and Memorial 
 
 ## Profile and ImmunoProfile
 
-Profile is a long-standing clinical next-generation sequencing (NGS) project between DFCI, Brigham and Women's Hospital, and Boston Children's Hospital.  For Profile, we are actively developing new clinical NGS pipelines and a new cloud-based platform for running all clinical NGS tests.  We also support ImmunoProfile, a new research assay used to study and predict response to Immunotherapy.  
+Profile is a long-standing clinical next-generation sequencing (NGS) project between DFCI, Brigham and Women's Hospital, and Boston Children's Hospital.  For Profile, we are actively developing new clinical NGS pipelines and a new cloud-based platform for running all clinical NGS tests.  We also support ImmunoProfile, a research assay used to study and predict response to Immunotherapy.  
 

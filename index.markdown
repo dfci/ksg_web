@@ -12,4 +12,3 @@ We are an [interdisciplinary group](team) of computational biologists, bioinform
 
 We currently support a [large portfolio of projects](projects), in the areas of cancer genomics, immuno-oncology, clinical decision support, and data sharing.  
 
-We are also growing, and always looking for new recruits to join our team.
