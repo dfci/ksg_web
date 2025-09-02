@@ -34,9 +34,6 @@ Matthew Galvin is a software architect within the Knowledge Systems Group. His e
 ## Jason Hansel 
 Jason Hansel is a software engineer in the Knowledge Systems Group. He works primarily on MatchMiner, developing tools to connect patients with precision medicine clinical trials. Prior to joining Dana-Farber, Jason worked at Amazon, where he helped to launch Amazon Pharmacy. Jason has a B.A. in Computer Science and Philosophy from Williams College.
 
-## Philip Keighley
-Philip Keighley brings nearly two decades experience in software development to Knowledge Systems Group.  With his background in software development and on-prem and cloud infrastructure, Phil is now helping KSG design and deliver critical software systems which enable researchers inside and outside the organization to engage with and be able to analyze the wealth of data produced at KSG.  Previously, Phil has played a transformative role in industries such as telecommunications, semiconductors, and service management.
-
 ## Harry Klein
 Harry Klein, Ph.D. is a Scientist within the group. Prior to joining Dana-Farber, Harry received his Ph.D. in Plant Biology from the University of Massachusetts Amherst where he studied programmed cell death in grass flower development. Harry conducts outreach and impact studies for MatchMiner, a platform for algorithmically matching genomic profiles to clinical trials. In a retrospective study conducted by the MatchMiner team, they found MatchMiner reduced time to trial consent by 22%!
 
