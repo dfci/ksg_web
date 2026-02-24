@@ -336,6 +336,7 @@ a:hover {
 
 .tag-data     { background: #dbeafe; color: #1d4ed8; }
 .tag-clinical { background: #d1fae5; color: #065f46; }
+.tag-infra    { background: #f3e8ff; color: #6b21a8; }
 
 .project-link {
   display: inline-block;

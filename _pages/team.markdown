@@ -51,7 +51,7 @@ permalink: /team/
       <div class="team-avatar av-6">EH</div>
       <div class="team-card-name">Erica Holdmore, Ph.D.</div>
     </div>
-    <p class="team-card-bio">Computational Biologist in the NGS Bioinformatics Group. Erica earned her doctorate from Yale University and has hands-on experience with every step of the NGS pipeline, from sample collection to library prep to data analysis. She primarily supports the Profile Project at DFCI.</p>
+    <p class="team-card-bio">Computational Biologist and project lead for the MatchMiner Dashboard. Erica earned her doctorate from Yale University and has hands-on experience with every step of the NGS pipeline, from sample collection to library prep to data analysis. She primarily supports the Profile Project at DFCI.</p>
   </div>
 
   <div class="team-card">
@@ -59,7 +59,7 @@ permalink: /team/
       <div class="team-avatar av-1">JH</div>
       <div class="team-card-name">Jason Hansel</div>
     </div>
-    <p class="team-card-bio">Software engineer working primarily on MatchMiner, developing tools to connect patients with precision medicine clinical trials. Prior to joining Dana-Farber, Jason worked at Amazon, where he helped launch Amazon Pharmacy. He holds a B.A. in Computer Science and Philosophy from Williams College.</p>
+    <p class="team-card-bio">Software engineer working primarily on KSG Infrastructure. Prior to joining Dana-Farber, Jason worked at Amazon, where he helped launch Amazon Pharmacy. He holds a B.A. in Computer Science and Philosophy from Williams College.</p>
   </div>
 
   <div class="team-card">
@@ -99,7 +99,7 @@ permalink: /team/
       <div class="team-avatar av-6">TM</div>
       <div class="team-card-name">Tali Mazor, Ph.D.</div>
     </div>
-    <p class="team-card-bio">Associate Director and Lead Scientist within the group. Tali received her Ph.D. in Biomedical Sciences from UCSF, where she studied the heterogeneity and evolution of brain tumor genomics and epigenomics. She leads the MatchMiner project and also works with cBioPortal, leading training and outreach efforts.</p>
+    <p class="team-card-bio">Associate Director and Lead Scientist within the group. Tali received her Ph.D. in Biomedical Sciences from UCSF, where she studied the heterogeneity and evolution of brain tumor genomics and epigenomics. She leads MatchMiner Genomics and also works with cBioPortal, leading training and outreach efforts.</p>
   </div>
 
   <div class="team-card">

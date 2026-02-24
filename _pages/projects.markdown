@@ -55,6 +55,39 @@ permalink: /projects/
 
   <div class="team-card">
     <div class="team-card-header">
+      <div class="team-avatar av-6">MD</div>
+      <div>
+        <span class="project-tag tag-clinical">Clinical</span>
+        <div class="team-card-name">MatchMiner Dashboard</div>
+      </div>
+    </div>
+    <p class="team-card-bio">A pilot platform that centralizes and organizes real-time clinical trial data, including slot availability, accruals, study milestones, and AI-powered trial accrual forecasting. Project lead: Erica Holdmore.</p>
+  </div>
+
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-2">KI</div>
+      <div>
+        <span class="project-tag tag-infra">Infrastructure</span>
+        <div class="team-card-name">KSG Infrastructure</div>
+      </div>
+    </div>
+    <p class="team-card-bio">Builds and maintains KSG infrastructure — servers, applications, dashboards, and cloud security — to ensure that systems are secure, reliable, and available. Supports the day-to-day operations of all KSG projects.</p>
+  </div>
+
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-3">SP</div>
+      <div>
+        <span class="project-tag tag-data">Big Data</span>
+        <div class="team-card-name">Spatial Profiling Data Management</div>
+      </div>
+    </div>
+    <p class="team-card-bio">An exploratory initiative focused on the storage, management, visualization, and standardization of spatial profiling data. We are actively investigating data standards, scalable storage solutions, and tools to make spatial omics data accessible and interpretable for researchers.</p>
+  </div>
+
+  <div class="team-card">
+    <div class="team-card-header">
       <div class="team-avatar av-5">PR</div>
       <div>
         <span class="project-tag tag-clinical">Clinical</span>
