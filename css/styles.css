@@ -21,6 +21,7 @@ body {
   color: var(--text-body);
   background: var(--bg);
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
 /* ===== Navigation ===== */
@@ -28,6 +29,14 @@ body {
   background: var(--bg);
   border-bottom: 1px solid var(--border);
   padding: 0.65rem 0;
+}
+
+.ksg-navbar .navbar-toggler {
+  border-color: var(--border);
+}
+
+.ksg-navbar .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23334155' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 
 #logo {
@@ -62,12 +71,12 @@ main {
 
 /* ===== Headings ===== */
 h1 {
-  font-size: 2rem;
+  font-size: clamp(1.4rem, 4vw, 2rem);
   font-weight: 800;
   color: var(--text);
   line-height: 1.15;
   letter-spacing: -0.03em;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
   margin-bottom: 1.25rem;
 }
 
@@ -340,6 +349,42 @@ a:hover {
 .project-link:hover {
   color: var(--accent-hover);
   text-decoration: underline;
+}
+
+/* ===== Mobile ===== */
+@media (max-width: 576px) {
+  main {
+    padding-top: 0.5rem;
+    padding-bottom: 2rem;
+  }
+
+  .home-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .team-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .ksg-bottom {
+    padding: 1rem;
+  }
+
+  .ksg-bottom img {
+    float: none;
+    width: 100%;
+    margin: 0 0 1rem 0;
+  }
+
+  #footer {
+    margin-top: 3rem;
+    text-align: center;
+  }
+
+  #footer .col-md-7 {
+    margin-top: 0.25rem;
+  }
 }
 
 /* ===== Footer ===== */
