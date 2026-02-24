@@ -15,8 +15,11 @@ The <a href="http://cbioportal.org">cBioPortal for Cancer Genomics</a> is one of
 Together with Sage Bionetworks, the Institute for Systems Biology, and Memorial Sloan Kettering Cancer Center, we are the Data Coordinating Center (DCC) for the <a href="https://humantumoratlas.org/">Human Tumor Atlas Network (HTAN)</a>.  HTAN is a large "Moonshot" project funded by the National Cancer Institute, which will focus on longitudinal studies of pre-cancer, metastasis, and drug resistance with an emphasis on collecting comprehensive clinical data over time.  The DCC is the central data coordinating center for the network. 
 
 
-## MatchMiner
-<a href="https://matchminer.org/">MatchMiner</a> is an open source computational platform for matching patient-specific genomic profiles to precision cancer medicine clinical trials.  It is currently in active use within DFCI and now available to both trial investigators and practicing oncologists.
+## MatchMiner Genomics
+<a href="https://matchminer.org/">MatchMiner Genomics</a> is an open source computational platform for matching patient-specific genomic profiles to precision cancer medicine clinical trials. It is currently in active use within DFCI and available to both trial investigators and practicing oncologists.
+
+## MatchMiner-AI
+MatchMiner-AI is a next-generation trial matching platform that leverages large language models (LLMs) to match patients to all clinical trials — not just genomically driven ones — based on their full medical record. Where MatchMiner Genomics excels at structured genomic matching, MatchMiner-AI processes unstructured clinical notes to extract key patient attributes such as cancer type, burden of disease, prior treatment, and biomarkers, then generates patient summaries to identify the best-fit trials across the full portfolio. The platform launched at DFCI in February 2026.
 
 ## Profile and ImmunoProfile
 
