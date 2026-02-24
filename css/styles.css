@@ -338,6 +338,18 @@ a:hover {
 .tag-clinical { background: #d1fae5; color: #065f46; }
 .tag-infra    { background: #f3e8ff; color: #6b21a8; }
 
+.project-lead {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-top: 0.65rem;
+  margin-bottom: 0;
+}
+
+.project-lead span {
+  font-weight: 600;
+  color: var(--text);
+}
+
 .project-link {
   display: inline-block;
   margin-top: 0.75rem;
