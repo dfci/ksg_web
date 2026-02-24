@@ -177,6 +177,142 @@ a:hover {
   margin: 0;
 }
 
+/* ===== Home page: unified 2x2 grid ===== */
+.home-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+  margin: 1.75rem 0;
+  align-items: start;
+}
+
+@media (max-width: 640px) {
+  .home-grid { grid-template-columns: 1fr; }
+}
+
+.home-grid img {
+  width: 100%;
+  border-radius: 8px;
+  display: block;
+}
+
+/* keep old platform-grid alias in case used elsewhere */
+.platform-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+  margin: 1.75rem 0;
+}
+
+@media (max-width: 600px) {
+  .platform-grid { grid-template-columns: 1fr; }
+}
+
+.platform-card {
+  border: 1px solid var(--border);
+  border-top: 3px solid;
+  border-radius: 8px;
+  padding: 1.25rem 1.4rem;
+}
+
+.platform-data     { border-top-color: var(--accent); }
+.platform-clinical { border-top-color: #059669; }
+
+.platform-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+.platform-data     .platform-label { color: var(--accent); }
+.platform-clinical .platform-label { color: #059669; }
+
+.platform-desc {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  line-height: 1.65;
+  margin-bottom: 0.85rem;
+}
+
+.platform-projects {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.platform-projects li {
+  font-size: 0.875rem;
+  padding: 0.2rem 0;
+  color: var(--text-body);
+}
+
+.platform-projects li::before {
+  content: "→ ";
+  color: var(--text-muted);
+}
+
+/* ===== Home page: overview block (image + values) ===== */
+.overview-block {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  align-items: center;
+  margin: 1.75rem 0;
+}
+
+@media (max-width: 640px) {
+  .overview-block { grid-template-columns: 1fr; }
+}
+
+.overview-block img {
+  width: 100%;
+  border-radius: 8px;
+  display: block;
+}
+
+.ksg-bottom {
+  grid-column: 1 / -1;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.5rem;
+  overflow: hidden;
+}
+
+.ksg-bottom img {
+  float: right;
+  width: 42%;
+  border-radius: 6px;
+  margin: 0 0 1rem 1.75rem;
+}
+
+@media (max-width: 640px) {
+  .ksg-bottom img {
+    float: none;
+    width: 100%;
+    margin: 0 0 1rem 0;
+  }
+}
+
+.ksg-values > div {
+  margin-bottom: 1rem;
+}
+
+.value-title {
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 0.25rem;
+}
+
+.value-desc {
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+  line-height: 1.55;
+}
+
 /* ===== Project tags & links ===== */
 .project-tag {
   display: inline-block;

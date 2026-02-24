@@ -61,7 +61,7 @@ permalink: /projects/
         <div class="team-card-name">Profile and ImmunoProfile</div>
       </div>
     </div>
-    <p class="team-card-bio">Profile is a long-standing clinical next-generation sequencing (NGS) project between DFCI, Brigham and Women's Hospital, and Boston Children's Hospital. We are actively developing new clinical NGS pipelines and a cloud-based platform for running all clinical NGS tests. We also support ImmunoProfile, a research assay used to study and predict response to immunotherapy.</p>
+    <p class="team-card-bio">Profile was a long-standing clinical next-generation sequencing (NGS) project between DFCI, Brigham and Women's Hospital, and Boston Children's Hospital. We developed clinical NGS pipelines and a cloud-based platform for running clinical NGS tests. We also supported ImmunoProfile, a research assay used to study and predict response to immunotherapy.</p>
   </div>
 
 </div>
