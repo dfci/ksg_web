@@ -10,9 +10,6 @@ Ethan Cerami, Ph.D. is the Director of the Knowledge Systems Group and Principal
 ## Jen Altreuter
 Jen Altreuter, M.D. is a Scientist within the Knowledge Systems Group.  Jen obtained her undergraduate degree in Computer Studies at Northwestern University and earned her MD from the University of Pennsylvania of Medicine.  She has a diverse set of work experiences in the fields of basic science research and education as well as medical and bioinformatics.
 
-## Guruprasad Ananda
-Guruprasad Ananda, Ph.D., is a Lead Scientist and the Director of the NGS Bioinformatics Group at DFCI. His group is primarily involved in bioinformatics research, analysis, and tool/pipeline development for the Profile project, one of the most comprehensive precision cancer medicine initiatives in the US. The group also works closely with pathologists, oncologists, and research scientists at DFCI, MGB, and Harvard Medical School on the development, validation, and translation of bioinformatics tools and algorithms into the clinical space. Prior to joining DFCI, Guru was a Scientist and Manager of the Clinical and Translational Informatics Team at the Jackson Laboratory, where he made key contributions to setting up multiple NGS based clinical tests for cancer. During his graduate studies, Guru was involved in the development and maintenance of diverse bioinformatics and statistical tools as a core team member of the Galaxy project, an open-source, free web-based genomics portal with a substantial user base.
-
 ## Michael D'Eletto
 Michael D'Eletto is the Lead Software Engineer for the Profile team within the Knowledge Systems Group. Mike possesses a Masters in Bioinformatics from NYU. Prior to joining the Knowledge Systems Group, he led the bioinformatics group within the Tumor Profiling Laboratory at Yale New Haven Hospital, and was responsible for developing custom bioinformatics workflows and applications to support clinical sequencing efforts. His expertise lies strongly in the realm of clinical bioinformatics, which poses its own unique regulatory challenges that require additional consideration during the devops process. He is very excited to contribute to KSG, and has a passion for creating software that will help to translate data into meaningful observations.
 
@@ -25,14 +22,8 @@ Gufran Gungor is a software engineer in the Knowledge Systems Group. His backgro
 ## Erica Holdmore
 Erica Holdmore, Ph.D. is a Computational Biologist in the NSG Bioinformatics Group. Erica earned a bachelors degree from Florida State University, a master from California State University Northridge, and a doctorate from Yale University. She has hands-on experience with every step of the NGS pipeline, from sample collection to library prep to data analysis. Erica applies her expertise in developing and implementing bioinformatics pipelines for a variety of sequencing technologies to her work at DFCI, primarily for the Profile Project. 
 
-## Matthew Galvin 
-Matthew Galvin is a software architect within the Knowledge Systems Group. His expertise lies in bioinformatics pipelining, data analysis, and full-stack web development. Prior to joining Dana-Farber he worked at Invitae, the Providence Cancer Institute, and Illumina. At KSG, Matthew primarily contributes to the MatchMiner project.  He has a B.S. in Chemical Engineering from Oregon State University, and his interests include human health, computer science, and philosophy. 
-
 ## Jason Hansel 
 Jason Hansel is a software engineer in the Knowledge Systems Group. He works primarily on MatchMiner, developing tools to connect patients with precision medicine clinical trials. Prior to joining Dana-Farber, Jason worked at Amazon, where he helped to launch Amazon Pharmacy. Jason has a B.A. in Computer Science and Philosophy from Williams College.
-
-## Harry Klein
-Harry Klein, Ph.D. is a Scientist within the group. Prior to joining Dana-Farber, Harry received his Ph.D. in Plant Biology from the University of Massachusetts Amherst where he studied programmed cell death in grass flower development. Harry conducts outreach and impact studies for MatchMiner, a platform for algorithmically matching genomic profiles to clinical trials. In a retrospective study conducted by the MatchMiner team, they found MatchMiner reduced time to trial consent by 22%!
 
 ## Alex Lash
 Alex Lash, M.D. joined the KSG in 2023 as the Scientific Program Manager for the Data Coordination Center for the National Cancer Institutes's Human Tumor Atlas Network (HTAN). He was awarded an M.D. degree from Baylor College of Medicine in 1994, and completed his residency training in anatomic pathology in 1998 at the National Cancer Institute, where, among other awards, he was recognized by the Arthur Purdy Stout Society of Surgical Pathologists. From 1998 to 2003, Lash was a staff scientist at the National Center for Biotechnology Information (NCBI) at NIH. From 2003 to 2012, he was the scientific director of the bioinformatics core facility at Memorial Sloan-Kettering Cancer Center, where he supported both clinical and basic research and participated in numerous collaborative grants.  He was the Chief Informatics Officer at the Simons Foundation from 2012 to 2023, where he lead the development and dissemination of the foundation’s extensive scientific data assets — particularly those related to autism spectrum disorders — and oversaw the automation of its scientific administration infrastructure.
@@ -55,15 +46,6 @@ Satyakam Mishra is a Computational Biologist in the KSG, working primarily on th
 ## James Provencher 
 James Provencher is a software engineer in the Knowledge Systems group. James joined the group after earning his M.S. in Computer Science from the University of Massachusetts Lowell and is interested in facilitating research through his engineering efforts.
 
-## Tiarah Thomas
-Tiarah Thomas is an Administrator Support Specialist within the Knowledge Systems Group. Prior to joining Dana Farber, Tiarah acquired over 10 years of support experience from working in a number of industries.  Tiarah holds a B.A. in Applied Psychology and Studio Arts from Boston College.
-
-## Pavel Trukhanov 
-Pavel Trukhanov does modern software engineering within the Knowledge Systems Group, working on number of major projects at KSG, namely MatchMiner, Profile and also focusing on ML applications. Prior to joining Dana Farber, Pavel was a Co-founder of a software and server monitoring and reliability startup company. He is a Linux and web systems expert with background in theoretical physics, who is also passionate about bioinformatics and biotechnology.
-
 ## Stephen C. Van Nostrand
 Stephen C. Van Nostrand is a Software Engineer, who came to the Knowledge Systems Group with a Master’s in Biological Engineering from MIT, with experience with both the technological and biological aspects of cancer research. They’re now excited to continue contributing to cutting-edge scientific advancement by simplifying data sharing and analysis within Dana Farber.
-
-## Joyce Yu
-Joyce Yu, M.B.A. is a Program Manager within the Knowledge Systems Group. Prior to joining KSG, Joyce was a Project Analyst for Research Administration in the Department of Medicine at Brigham and Women’s Hospital. She brings clinical research project expertise, from patient recruitment and data collection, all the way to grants management and leading large research projects.
 

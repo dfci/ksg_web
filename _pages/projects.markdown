@@ -16,7 +16,7 @@ Together with Sage Bionetworks, the Institute for Systems Biology, and Memorial 
 
 
 ## MatchMiner
-<img style="float: right; margin: 20px" src="https://raw.github.com/ecerami/ecerami.github.io/master/img/match_miner.png" width=250px> <a href="https://matchminer.org/">MatchMiner</a> is an open source computational platform for matching patient-specific genomic profiles to precision cancer medicine clinical trials.  It is currently in active use within DFCI and now available to both trial investigators and practicing oncologists.
+<a href="https://matchminer.org/">MatchMiner</a> is an open source computational platform for matching patient-specific genomic profiles to precision cancer medicine clinical trials.  It is currently in active use within DFCI and now available to both trial investigators and practicing oncologists.
 
 ## Profile and ImmunoProfile
 

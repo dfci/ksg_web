@@ -1,11 +1,14 @@
-<div id="footer" class="border-top">
-  <div class="row">
-    <div class="col-3">
-      <p class="fw-light">&copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
-    </div>
-    <div class="col-8">
-        <a class="fw-light text-decoration-none" href="https://ds.dfci.harvard.edu/">Department of Data Science</a>&nbsp;|
-        <a class="fw-light text-decoration-none" href="https://www.dana-farber.org/">Dana-Farber Cancer Institute</a>
+<footer id="footer">
+  <div class="container">
+    <div class="row align-items-center py-3">
+      <div class="col-md-5">
+        <span>&copy; {{ site.title }} {{ site.time | date: '%Y' }}</span>
+      </div>
+      <div class="col-md-7 text-md-end mt-2 mt-md-0">
+        <a href="https://ds.dfci.harvard.edu/">Department of Data Science</a>
+        <span class="mx-2">&middot;</span>
+        <a href="https://www.dana-farber.org/">Dana-Farber Cancer Institute</a>
+      </div>
     </div>
   </div>
-</div>
+</footer>

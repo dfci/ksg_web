@@ -1,28 +1,122 @@
-#footer {
-    margin-top: 150px;
-    padding-top:20px;
-    font-size: 15px;
-    color:#888888;
+/* ===== CSS Custom Properties ===== */
+:root {
+  --ksg-navy:      #003087;
+  --ksg-blue:      #0072ce;
+  --ksg-blue-light: #e8f2ff;
+  --ksg-text:      #212529;
+  --ksg-muted:     #6c757d;
+  --ksg-border:    #dee2e6;
+  --ksg-bg-light:  #f8f9fa;
+}
+
+/* ===== Base ===== */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color: var(--ksg-text);
+  line-height: 1.75;
+  background-color: #fff;
+  font-size: 1rem;
+}
+
+/* ===== Navigation ===== */
+.ksg-navbar {
+  background-color: #fff;
+  border-bottom: 1px solid var(--ksg-border);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
+  padding: 0.4rem 0;
+}
+
+.ksg-navbar .nav-link {
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--ksg-text);
+  padding: 0.4rem 0.85rem;
+  border-radius: 4px;
+  transition: background-color 0.15s ease, color 0.15s ease;
+  letter-spacing: 0.01em;
+}
+
+.ksg-navbar .nav-link:hover {
+  background-color: var(--ksg-blue-light);
+  color: var(--ksg-blue);
+}
+
+.ksg-navbar .nav-link.active {
+  color: var(--ksg-blue);
+  font-weight: 600;
 }
 
 #logo {
-    width:200px;
-    padding-top:5px;
-    padding-bottom:5px;
+  height: 36px;
+  width: auto;
 }
 
+/* ===== Page title (h1) ===== */
 h1 {
-    margin-top:20px;
-    padding-left:5px;
-    padding-top:5px;
-    padding-bottom:5px;
-    margin-bottom:15px;
-    font-size:40px;
-    border-left: 5px solid steelblue;
-    border-bottom: 1px solid steelblue;
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--ksg-navy);
+  margin-top: 2rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 2px solid var(--ksg-blue);
+  letter-spacing: -0.01em;
 }
 
+/* ===== Section headings (h2) ===== */
 h2 {
-    font-size:20px;
-    color:  rgb(66, 71, 75);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--ksg-navy);
+  margin-top: 2rem;
+  margin-bottom: 0.4rem;
+  padding-left: 0.65rem;
+  border-left: 3px solid var(--ksg-blue);
+}
+
+/* ===== Body copy ===== */
+p {
+  margin-bottom: 1rem;
+  color: #343a40;
+}
+
+.lead {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #495057;
+  margin-bottom: 1.25rem;
+}
+
+/* ===== Links ===== */
+a {
+  color: var(--ksg-blue);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--ksg-navy);
+  text-decoration: underline;
+}
+
+/* ===== Project images ===== */
+.page-content img {
+  border-radius: 4px;
+}
+
+/* ===== Footer ===== */
+#footer {
+  background-color: var(--ksg-bg-light);
+  border-top: 1px solid var(--ksg-border);
+  margin-top: 4rem;
+  font-size: 0.875rem;
+  color: var(--ksg-muted);
+}
+
+#footer a {
+  color: var(--ksg-muted);
+  text-decoration: none;
+}
+
+#footer a:hover {
+  color: var(--ksg-blue);
 }
