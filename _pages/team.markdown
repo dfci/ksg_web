@@ -4,48 +4,126 @@ title: Team
 permalink: /team/
 ---
 
-## Ethan Cerami
-Ethan Cerami, Ph.D. is the Director of the Knowledge Systems Group and Principal Scientist in the Department of Data Sciences at Dana-Farber Cancer Institute. Prior to joining Dana-Farber, Ethan was the Director of Computational Biology at Blueprint Medicines, and Director of Cancer Informatics Development at Memorial Sloan Kettering Cancer Center (MSKCC).  While at MSKCC, Ethan co-founded the <a href="http://cbioportal.org">cBioPortal for Cancer Genomics</a>, and the group remains active in its continued development.
+<div class="team-grid">
 
-## Jen Altreuter
-Jen Altreuter, M.D. is a Scientist and Lead of the MatchMiner-AI team within the Knowledge Systems Group.  Jen obtained her undergraduate degree in Computer Studies at Northwestern University and earned her MD from the University of Pennsylvania of Medicine.  She has a diverse set of work experiences in the fields of basic science research and education as well as medical and bioinformatics.
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-1">EC</div>
+      <div class="team-card-name">Ethan Cerami, Ph.D.</div>
+    </div>
+    <p class="team-card-bio">Director of the Knowledge Systems Group and Principal Scientist in the Department of Data Sciences at Dana-Farber Cancer Institute. Prior to joining Dana-Farber, Ethan was the Director of Computational Biology at Blueprint Medicines, and Director of Cancer Informatics Development at Memorial Sloan Kettering Cancer Center, where he co-founded the <a href="http://cbioportal.org">cBioPortal for Cancer Genomics</a>.</p>
+  </div>
 
-## Michael D'Eletto
-Michael D'Eletto is the Lead Software Engineer for the MatchMiner team within the Knowledge Systems Group. Mike possesses a Masters in Bioinformatics from NYU. Prior to joining the Knowledge Systems Group, he led the bioinformatics group within the Tumor Profiling Laboratory at Yale New Haven Hospital, and was responsible for developing custom bioinformatics workflows and applications to support clinical sequencing efforts. His expertise lies strongly in the realm of clinical bioinformatics, which poses its own unique regulatory challenges that require additional consideration during the devops process. He is very excited to contribute to KSG, and has a passion for creating software that will help to translate data into meaningful observations.
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-2">JA</div>
+      <div class="team-card-name">Jen Altreuter, M.D.</div>
+    </div>
+    <p class="team-card-bio">Scientist and Lead of the MatchMiner-AI team within the Knowledge Systems Group. Jen obtained her undergraduate degree in Computer Studies at Northwestern University and earned her MD from the University of Pennsylvania. She has a diverse set of work experiences in basic science research, education, and clinical and computational bioinformatics.</p>
+  </div>
 
-## Zhaoyuan (Ryan) Fu
-Zhaoyuan (Ryan) Fu is a software engineer in the Knowledge Systems group. He is primarily working on the public cBioPortal and the local cBioPortal @ DFCI. Ryan joined KSG after earning his M.S. in Electrical and Computer Engineering from Boston University. He brings skills of a full-stack developer, such as React for frontend, Spring Boot for backend, as well as knowledge for databases and containers.
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-3">MD</div>
+      <div class="team-card-name">Michael D'Eletto</div>
+    </div>
+    <p class="team-card-bio">Lead Software Engineer for the MatchMiner team within the Knowledge Systems Group. Mike holds a Masters in Bioinformatics from NYU. Prior to joining KSG, he led the bioinformatics group within the Tumor Profiling Laboratory at Yale New Haven Hospital, developing custom bioinformatics workflows and applications to support clinical sequencing efforts.</p>
+  </div>
 
-## Gufran Gungor
-Gufran Gungor is a software engineer in the Knowledge Systems Group. His background lies in Molecular Biology and Genetics. Prior to his position at DFCI Gufran worked at Yale New Haven Hospital, Exact Sciences, and Genomize in bioinformatics. Throughout his career he has specialized in clinical bioinformatics with an emphasis on NGS pipeline development both on premise and on the cloud. 
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-4">RF</div>
+      <div class="team-card-name">Zhaoyuan (Ryan) Fu</div>
+    </div>
+    <p class="team-card-bio">Software engineer working primarily on the public cBioPortal and the local cBioPortal @ DFCI. Ryan joined KSG after earning his M.S. in Electrical and Computer Engineering from Boston University. He brings full-stack development skills including React, Spring Boot, and expertise in databases and containers.</p>
+  </div>
 
-## Erica Holdmore
-Erica Holdmore, Ph.D. is a Computational Biologist in the NSG Bioinformatics Group. Erica earned a bachelors degree from Florida State University, a master from California State University Northridge, and a doctorate from Yale University. She has hands-on experience with every step of the NGS pipeline, from sample collection to library prep to data analysis. Erica applies her expertise in developing and implementing bioinformatics pipelines for a variety of sequencing technologies to her work at DFCI, primarily for the Profile Project. 
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-5">GG</div>
+      <div class="team-card-name">Gufran Gungor</div>
+    </div>
+    <p class="team-card-bio">Software engineer with a background in Molecular Biology and Genetics. Prior to DFCI, Gufran worked at Yale New Haven Hospital, Exact Sciences, and Genomize. He has specialized in clinical bioinformatics with an emphasis on NGS pipeline development both on-premise and in the cloud.</p>
+  </div>
 
-## Jason Hansel 
-Jason Hansel is a software engineer in the Knowledge Systems Group. He works primarily on MatchMiner, developing tools to connect patients with precision medicine clinical trials. Prior to joining Dana-Farber, Jason worked at Amazon, where he helped to launch Amazon Pharmacy. Jason has a B.A. in Computer Science and Philosophy from Williams College.
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-6">EH</div>
+      <div class="team-card-name">Erica Holdmore, Ph.D.</div>
+    </div>
+    <p class="team-card-bio">Computational Biologist in the NGS Bioinformatics Group. Erica earned her doctorate from Yale University and has hands-on experience with every step of the NGS pipeline, from sample collection to library prep to data analysis. She primarily supports the Profile Project at DFCI.</p>
+  </div>
 
-## Alex Lash
-Alex Lash, M.D. joined the KSG in 2023 as the Scientific Program Manager for the Data Coordination Center for the National Cancer Institutes's Human Tumor Atlas Network (HTAN). He was awarded an M.D. degree from Baylor College of Medicine in 1994, and completed his residency training in anatomic pathology in 1998 at the National Cancer Institute, where, among other awards, he was recognized by the Arthur Purdy Stout Society of Surgical Pathologists. From 1998 to 2003, Lash was a staff scientist at the National Center for Biotechnology Information (NCBI) at NIH. From 2003 to 2012, he was the scientific director of the bioinformatics core facility at Memorial Sloan-Kettering Cancer Center, where he supported both clinical and basic research and participated in numerous collaborative grants.  He was the Chief Informatics Officer at the Simons Foundation from 2012 to 2023, where he lead the development and dissemination of the foundation’s extensive scientific data assets — particularly those related to autism spectrum disorders — and oversaw the automation of its scientific administration infrastructure.
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-1">JH</div>
+      <div class="team-card-name">Jason Hansel</div>
+    </div>
+    <p class="team-card-bio">Software engineer working primarily on MatchMiner, developing tools to connect patients with precision medicine clinical trials. Prior to joining Dana-Farber, Jason worked at Amazon, where he helped launch Amazon Pharmacy. He holds a B.A. in Computer Science and Philosophy from Williams College.</p>
+  </div>
 
-## Rochelle Levy
-Rochelle Levy is the Program Coordinator for KSG as well as the HTAN DCC Scientific Project Coordinator. Prior to joining KSG, Rochelle was the executive assistant to Dr. George Demetri in the Sarcoma department within DFCI where she coordinated events, acted as a liaison between patients and physicians and assisted in managing academic appointments and day to day operations for all Sarcoma physicians. Rochelle holds a bachelors degree in business management and graphic design and has over ten years in healthcare and business administration. Rochelle wears many hats and also assists in various projects by utilizing her unique organization and management techniques as well as graphic and web design skills to propel projects forward.
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-2">AL</div>
+      <div class="team-card-name">Alex Lash, M.D.</div>
+    </div>
+    <p class="team-card-bio">Scientific Program Manager for the Data Coordination Center for NCI's Human Tumor Atlas Network (HTAN). He earned his M.D. from Baylor College of Medicine and previously served as scientific director of the bioinformatics core at Memorial Sloan-Kettering Cancer Center and Chief Informatics Officer at the Simons Foundation.</p>
+  </div>
 
-## James Lindsay
-James Lindsay, Ph.D. is Associate Director and Chief Software Architect within the Knowledge Systems Group. Prior to joining Dana-Farber, James was a Co-founder of Smpl Bio, a bioinformatics company which builds web based tools that simplify complex statistical and analytical tasks for bench biologists.  He brings expertise in software architecture, bioinformatics, genomics and machine learning.  Within the Knowledge Systems Group, James leads several initiatives, including translating molecular tissue imaging research into clinical tests, software systems for enterprise bioinformatics and integration of machine learning to enhance research and clinical systems at Dana-Farber.
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-3">RL</div>
+      <div class="team-card-name">Rochelle Levy</div>
+    </div>
+    <p class="team-card-bio">Program Coordinator for KSG and the HTAN DCC Scientific Project Coordinator. Rochelle holds a bachelor's degree in business management and graphic design and has over ten years of experience in healthcare and business administration. She contributes her organization, management, and design skills across multiple KSG projects.</p>
+  </div>
 
-## Emily Mallaber
-Emily Mallaber is a bioinformatics analyst working primarily on MatchMiner within KSG. She holds a BA in Neuroscience and in Computer Science from Boston University. Prior to KSG, she has worked as an EMT and in clinical research positions. She hopes to continue to develop her expertise here and is excited to contribute to such important projects while she does! 
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-4">JL</div>
+      <div class="team-card-name">James Lindsay, Ph.D.</div>
+    </div>
+    <p class="team-card-bio">Associate Director and Chief Software Architect within the Knowledge Systems Group. Prior to joining Dana-Farber, James was a co-founder of Smpl Bio, a bioinformatics company. He leads several initiatives at KSG, including translating molecular tissue imaging research into clinical tests and integrating machine learning into research and clinical systems.</p>
+  </div>
 
-## Tali Mazor
-Tali Mazor, Ph.D., is an Associate Director and Lead Scientist within the group. Prior to joining Dana-Farber, Tali received her Ph.D. in Biomedical Sciences from the University of California San Francisco where she studied the heterogeneity and evolution of brain tumor genomics and epigenomics. She brings expertise in genomics and translational cancer research. Within the Knowledge Systems Group, Tali leads the MatchMiner project. She also works with the cBioPortal for Cancer Genomics, leading training and outreach as well as local cBioPortal@DFCI efforts.
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-5">EM</div>
+      <div class="team-card-name">Emily Mallaber</div>
+    </div>
+    <p class="team-card-bio">Bioinformatics analyst working primarily on MatchMiner. She holds a B.A. in Neuroscience and Computer Science from Boston University, and prior to KSG worked as an EMT and in clinical research positions.</p>
+  </div>
 
-## Satyakam Mishra
-Satyakam Mishra is a Computational Biologist in the KSG, working primarily on the Profile Project. He completed his Masters from CWRU in Systems Biology and Bioinformatics. He then worked in a lab at Case where he helped develop AWS based analyses and containerization of various NGS pipelines for the lab. He brings a mixture of biological, statistical and programming skills which he aims to develop further by contributing to the exciting ongoing research in Profile and in KSG.
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-6">TM</div>
+      <div class="team-card-name">Tali Mazor, Ph.D.</div>
+    </div>
+    <p class="team-card-bio">Associate Director and Lead Scientist within the group. Tali received her Ph.D. in Biomedical Sciences from UCSF, where she studied the heterogeneity and evolution of brain tumor genomics and epigenomics. She leads the MatchMiner project and also works with cBioPortal, leading training and outreach efforts.</p>
+  </div>
 
-## James Provencher 
-James Provencher is a software engineer in the Knowledge Systems group. James joined the group after earning his M.S. in Computer Science from the University of Massachusetts Lowell and is interested in facilitating research through his engineering efforts.
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-1">SM</div>
+      <div class="team-card-name">Satyakam Mishra</div>
+    </div>
+    <p class="team-card-bio">Computational Biologist working primarily on the Profile Project. He completed his Masters from CWRU in Systems Biology and Bioinformatics, then developed AWS-based analyses and containerized NGS pipelines. He brings a mixture of biological, statistical, and programming expertise to KSG.</p>
+  </div>
 
-## Stephen C. Van Nostrand
-Stephen C. Van Nostrand is a Software Engineer, who came to the Knowledge Systems Group with a Master’s in Biological Engineering from MIT, with experience with both the technological and biological aspects of cancer research. They’re now excited to continue contributing to cutting-edge scientific advancement by simplifying data sharing and analysis within Dana Farber.
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-2">JP</div>
+      <div class="team-card-name">James Provencher</div>
+    </div>
+    <p class="team-card-bio">Software engineer who joined the group after earning his M.S. in Computer Science from the University of Massachusetts Lowell. James is interested in facilitating research through his engineering efforts.</p>
+  </div>
 
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-3">SV</div>
+      <div class="team-card-name">Stephen C. Van Nostrand</div>
+    </div>
+    <p class="team-card-bio">Software Engineer who came to KSG with a Master's in Biological Engineering from MIT, with experience in both the technological and biological aspects of cancer research. Stephen focuses on simplifying data sharing and analysis within Dana-Farber.</p>
+  </div>
+
+</div>

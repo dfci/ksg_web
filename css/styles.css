@@ -1,122 +1,225 @@
-/* ===== CSS Custom Properties ===== */
+/* ===== Design tokens ===== */
 :root {
-  --ksg-navy:      #003087;
-  --ksg-blue:      #0072ce;
-  --ksg-blue-light: #e8f2ff;
-  --ksg-text:      #212529;
-  --ksg-muted:     #6c757d;
-  --ksg-border:    #dee2e6;
-  --ksg-bg-light:  #f8f9fa;
+  --bg:           #ffffff;
+  --surface:      #f8fafc;
+  --border:       #e2e8f0;
+  --text:         #0f172a;
+  --text-body:    #334155;
+  --text-muted:   #64748b;
+  --accent:       #2563eb;
+  --accent-hover: #1d4ed8;
+  --accent-light: #dbeafe;
 }
 
 /* ===== Base ===== */
+*, *::before, *::after { box-sizing: border-box; }
+
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  color: var(--ksg-text);
-  line-height: 1.75;
-  background-color: #fff;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-size: 1rem;
+  line-height: 1.75;
+  color: var(--text-body);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
 }
 
 /* ===== Navigation ===== */
 .ksg-navbar {
-  background-color: #fff;
-  border-bottom: 1px solid var(--ksg-border);
-  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
-  padding: 0.4rem 0;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 0.65rem 0;
+}
+
+#logo {
+  height: 34px;
+  width: auto;
 }
 
 .ksg-navbar .nav-link {
   font-size: 0.875rem;
   font-weight: 500;
-  color: var(--ksg-text);
-  padding: 0.4rem 0.85rem;
-  border-radius: 4px;
-  transition: background-color 0.15s ease, color 0.15s ease;
-  letter-spacing: 0.01em;
+  color: var(--text-muted);
+  padding: 0.3rem 0.75rem;
+  border-radius: 6px;
+  transition: color 0.15s, background 0.15s;
 }
 
 .ksg-navbar .nav-link:hover {
-  background-color: var(--ksg-blue-light);
-  color: var(--ksg-blue);
+  color: var(--text);
+  background: var(--surface);
 }
 
 .ksg-navbar .nav-link.active {
-  color: var(--ksg-blue);
+  color: var(--accent);
   font-weight: 600;
 }
 
-#logo {
-  height: 36px;
-  width: auto;
+/* ===== Layout ===== */
+main {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
 }
 
-/* ===== Page title (h1) ===== */
+/* ===== Headings ===== */
 h1 {
-  font-size: 1.75rem;
-  font-weight: 700;
-  color: var(--ksg-navy);
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--text);
+  line-height: 1.15;
+  letter-spacing: -0.03em;
   margin-top: 2rem;
   margin-bottom: 1.25rem;
-  padding-bottom: 0.6rem;
-  border-bottom: 2px solid var(--ksg-blue);
-  letter-spacing: -0.01em;
 }
 
-/* ===== Section headings (h2) ===== */
 h2 {
   font-size: 1.05rem;
   font-weight: 600;
-  color: var(--ksg-navy);
-  margin-top: 2rem;
-  margin-bottom: 0.4rem;
-  padding-left: 0.65rem;
-  border-left: 3px solid var(--ksg-blue);
+  color: var(--text);
+  letter-spacing: -0.01em;
+  margin-top: 2.25rem;
+  margin-bottom: 0.35rem;
 }
 
 /* ===== Body copy ===== */
 p {
+  color: var(--text-body);
   margin-bottom: 1rem;
-  color: #343a40;
+}
+
+strong {
+  color: var(--text);
+  font-weight: 600;
 }
 
 .lead {
   font-size: 1.1rem;
-  line-height: 1.8;
-  color: #495057;
-  margin-bottom: 1.25rem;
+  color: var(--text-muted);
+  line-height: 1.85;
+  margin-bottom: 1.5rem;
 }
 
 /* ===== Links ===== */
 a {
-  color: var(--ksg-blue);
+  color: var(--accent);
   text-decoration: none;
 }
 
 a:hover {
-  color: var(--ksg-navy);
+  color: var(--accent-hover);
   text-decoration: underline;
 }
 
-/* ===== Project images ===== */
+/* ===== Images ===== */
 .page-content img {
+  border-radius: 8px;
+}
+
+/* ===== Team grid ===== */
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+
+.team-card {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.25rem 1.4rem;
+  background: var(--bg);
+  transition: box-shadow 0.15s;
+}
+
+.team-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.07);
+}
+
+.team-card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin-bottom: 0.75rem;
+}
+
+.team-avatar {
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.8rem;
+  letter-spacing: 0.03em;
+  color: #fff;
+  flex-shrink: 0;
+}
+
+.av-1 { background: #2563eb; }
+.av-2 { background: #7c3aed; }
+.av-3 { background: #0891b2; }
+.av-4 { background: #059669; }
+.av-5 { background: #b45309; }
+.av-6 { background: #be185d; }
+
+.team-card-name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.3;
+  margin: 0;
+}
+
+.team-card-bio {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin: 0;
+}
+
+/* ===== Project tags & links ===== */
+.project-tag {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 0.15rem 0.5rem;
   border-radius: 4px;
+  margin-bottom: 0.3rem;
+}
+
+.tag-data     { background: #dbeafe; color: #1d4ed8; }
+.tag-clinical { background: #d1fae5; color: #065f46; }
+
+.project-link {
+  display: inline-block;
+  margin-top: 0.75rem;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.project-link:hover {
+  color: var(--accent-hover);
+  text-decoration: underline;
 }
 
 /* ===== Footer ===== */
 #footer {
-  background-color: var(--ksg-bg-light);
-  border-top: 1px solid var(--ksg-border);
-  margin-top: 4rem;
-  font-size: 0.875rem;
-  color: var(--ksg-muted);
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+  margin-top: 5rem;
+  font-size: 0.8125rem;
+  color: var(--text-muted);
 }
 
 #footer a {
-  color: var(--ksg-muted);
+  color: var(--text-muted);
   text-decoration: none;
 }
 
 #footer a:hover {
-  color: var(--ksg-blue);
+  color: var(--accent);
 }
