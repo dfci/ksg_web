@@ -2,6 +2,8 @@
 layout: page
 title: cBioPortal for Cancer Genomics
 permalink: /cbioportal/
+parent: Projects
+parent_url: /knowledge-systems/projects/
 ---
 
 <div class="detail-meta">

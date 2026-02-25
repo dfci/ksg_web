@@ -2,6 +2,8 @@
 layout: page
 title: MatchMiner Genomics
 permalink: /matchminer/
+parent: Projects
+parent_url: /knowledge-systems/projects/
 ---
 
 <div class="detail-meta">

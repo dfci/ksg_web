@@ -2,6 +2,8 @@
 layout: page
 title: Human Tumor Atlas Network (HTAN)
 permalink: /htan/
+parent: Projects
+parent_url: /knowledge-systems/projects/
 ---
 
 <div class="detail-meta">

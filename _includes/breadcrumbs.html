@@ -1,0 +1,15 @@
+{% if page.parent %}
+<nav aria-label="breadcrumb" class="breadcrumb-nav">
+  <a href="/knowledge-systems/">Home</a>
+  <span class="breadcrumb-sep">›</span>
+  <a href="{{ page.parent_url }}">{{ page.parent }}</a>
+  <span class="breadcrumb-sep">›</span>
+  <span class="breadcrumb-current">{{ page.title }}</span>
+</nav>
+{% elsif page.url != "/" %}
+<nav aria-label="breadcrumb" class="breadcrumb-nav">
+  <a href="/knowledge-systems/">Home</a>
+  <span class="breadcrumb-sep">›</span>
+  <span class="breadcrumb-current">{{ page.title }}</span>
+</nav>
+{% endif %}

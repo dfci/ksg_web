@@ -2,6 +2,8 @@
 layout: page
 title: MatchMiner-AI
 permalink: /matchminer-ai/
+parent: Projects
+parent_url: /knowledge-systems/projects/
 ---
 
 <div class="detail-meta">
