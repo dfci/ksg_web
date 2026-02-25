@@ -13,8 +13,8 @@ We are a software engineering and data science group at Dana-Farber Cancer Insti
     <div class="platform-label">Big Data Platforms</div>
     <p class="platform-desc">We organize and curate genomic data from thousands of cancer patients and build tools that help researchers analyze and visualize it to enable discovery.</p>
     <ul class="platform-projects">
-      <li><a href="projects">cBioPortal for Cancer Genomics</a></li>
-      <li><a href="projects">Human Tumor Atlas Network (HTAN)</a></li>
+      <li><a href="cbioportal">cBioPortal for Cancer Genomics</a></li>
+      <li><a href="htan">Human Tumor Atlas Network (HTAN)</a></li>
     </ul>
   </div>
 
@@ -22,10 +22,14 @@ We are a software engineering and data science group at Dana-Farber Cancer Insti
     <div class="platform-label">Clinical Platforms</div>
     <p class="platform-desc">We build software that enables precision cancer medicine and helps connect the next patient at DFCI to the right treatment or trial.</p>
     <ul class="platform-projects">
-      <li><a href="projects">MatchMiner Genomics</a></li>
-      <li><a href="projects">MatchMiner-AI</a></li>
-      <li><a href="projects">Profile &amp; ImmunoProfile</a></li>
+      <li><a href="matchminer">MatchMiner Genomics</a></li>
+      <li><a href="matchminer-ai">MatchMiner-AI</a></li>
     </ul>
+  </div>
+
+  <div class="all-projects-bar">
+    <p>We also work on MatchMiner Dashboard, KSG Infrastructure, Spatial Profiling, and more.</p>
+    <a href="projects">View all projects →</a>
   </div>
 
   <div class="ksg-bottom">
