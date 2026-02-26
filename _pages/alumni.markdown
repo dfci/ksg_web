@@ -7,7 +7,7 @@ parent_url: /knowledge-systems/team/
 ---
 
 <p class="detail-lead">
-KSG alumni have gone on to found AI startups, lead teams at major tech and biotech companies, and advance precision medicine across the industry. Our former members are now at Google DeepMind, Amazon, Datadog, Foundation Medicine, Caris Life Sciences, Elucidate Bio, Mass General Brigham, and OncoLens — and several have founded their own companies, including <a href="https://savvyn.ai/">Savvyn</a>, <a href="https://genhealth.ai">GenHealth.ai</a>, and <a href="https://www.se4.bio">SE4BIO</a>.
+KSG alumni have gone on to found AI startups, lead teams at major tech and biotech companies, and advance precision medicine across the industry. Our former members are now at Google DeepMind, Amazon, Meta, Datadog, Foundation Medicine, Caris Life Sciences, Elucidate Bio, Mass General Brigham, and OncoLens — and several have founded their own companies, including <a href="https://savvyn.ai/">Savvyn</a>, <a href="https://genhealth.ai">GenHealth.ai</a>, and <a href="https://www.se4.bio">SE4BIO</a>.
 </p>
 
 <div class="team-grid">
@@ -185,7 +185,7 @@ KSG alumni have gone on to found AI startups, lead teams at major tech and biote
         <div class="alumni-role">Retired — Paradise, CA</div>
       </div>
     </div>
-    <p class="team-card-bio">After working for 4.5 years at Meta as a Software Engineer, Ersin left in December 2025 and is living a retired life in Paradise, CA.</p>
+    <p class="team-card-bio">After working for 4.5 years at <a href="https://www.meta.com">Meta</a> as a Software Engineer, Ersin left in December 2025 and is living a retired life in Paradise, CA.</p>
   </div>
 
 </div>
