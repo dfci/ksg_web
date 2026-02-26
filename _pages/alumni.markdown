@@ -36,6 +36,17 @@ KSG alumni have gone on to found AI startups, lead teams at major tech and biote
 
   <div class="team-card">
     <div class="team-card-header">
+      <div class="team-avatar av-6">TT</div>
+      <div>
+        <div class="team-card-name">Tiarah Thomas</div>
+        <div class="alumni-role">Program Administrator — <a href="https://www.dana-farber.org">Dana-Farber Cancer Institute</a></div>
+      </div>
+    </div>
+    <p class="team-card-bio">Tiarah joined KSG and was promoted to Program Administrator before moving on to a new department at DFCI.</p>
+  </div>
+
+  <div class="team-card">
+    <div class="team-card-header">
       <div class="team-avatar av-5">MG</div>
       <div>
         <div class="team-card-name">Matthew Galvin</div>
