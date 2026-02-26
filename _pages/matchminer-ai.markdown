@@ -52,6 +52,24 @@ MatchMiner-AI addresses this gap by reading the patient's full medical record. I
 
 The result is broader, more complete trial coverage for every patient seen at DFCI.
 
+## Publication
+
+<div class="pub-list">
+  <div class="pub-card">
+    <div class="pub-title">
+      <a href="https://doi.org/10.48550/arXiv.2412.17228">MatchMiner-AI: An Open-Source Solution for Cancer Clinical Trial Matching</a>
+    </div>
+    <div class="pub-meta">
+      Altreuter J, Trukhanov P, Paul MA, Hassett MJ, Riaz IB, Mallaber E, Klein HR, Gungor G, D'Eletto M, Van Nostrand SC, Provencher J, Mazor T, Cerami E, Kehl KL, et al.
+      &middot; <em>arXiv preprint</em>, 2024
+    </div>
+    <div class="pub-links">
+      <a href="https://doi.org/10.48550/arXiv.2412.17228">DOI →</a>
+      <a href="https://arxiv.org/abs/2412.17228">arXiv →</a>
+    </div>
+  </div>
+</div>
+
 ## Links
 
 <a class="project-link" href="https://github.com/dfci/matchminer-ai">GitHub →</a>

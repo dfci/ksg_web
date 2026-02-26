@@ -7,6 +7,11 @@ title: Knowledge Systems Group (KSG)
 We are a software engineering and data science group at Dana-Farber Cancer Institute, building software systems that advance cancer research and precision cancer medicine.
 </p>
 
+<div class="home-news">
+  <div class="home-news-label">Recent Publications</div>
+  <p>KSG members recently published two papers on AI in oncology: a preprint describing <a href="/knowledge-systems/matchminer-ai">MatchMiner-AI</a>, an <a href="https://doi.org/10.48550/arXiv.2412.17228">open-source LLM-powered platform for clinical trial matching</a> trained on synthetic EHR data, and a broad <a href="https://doi.org/10.1158/2159-8290.CD-23-1199">review of AI across the cancer care continuum</a> — covering detection, diagnosis, and treatment. <a href="/knowledge-systems/publications">See all recent publications →</a></p>
+</div>
+
 <div class="home-grid">
 
   <div class="platform-card platform-data">
@@ -60,4 +65,9 @@ We are a software engineering and data science group at Dana-Farber Cancer Insti
       </div>
   </div>
 
+</div>
+
+<div class="home-alumni">
+  <div class="home-news-label">KSG Alumni</div>
+  <p>KSG has launched careers across the industry. Our alumni are now at Google DeepMind, Amazon, Datadog, Foundation Medicine, Caris Life Sciences, and Mass General Brigham — and several have gone on to found their own companies, including <a href="https://savvyn.ai/">Savvyn</a>, <a href="https://genhealth.ai">GenHealth.ai</a>, and <a href="https://www.se4.bio">SE4BIO</a>. <a href="/knowledge-systems/alumni">Meet our alumni →</a></p>
 </div>

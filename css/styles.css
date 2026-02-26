@@ -179,11 +179,43 @@ a:hover {
   margin: 0;
 }
 
+.alumni-role {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-top: 0.15rem;
+}
+
 .team-card-bio {
   font-size: 0.875rem;
   color: var(--text-muted);
   line-height: 1.7;
   margin: 0;
+}
+
+/* ===== Home page: news strip ===== */
+.home-news {
+  background: var(--accent-light);
+  border: 1px solid #bfdbfe;
+  border-left: 5px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.75rem;
+}
+
+.home-news-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.4rem;
+}
+
+.home-news p {
+  margin: 0;
+  font-size: 0.9375rem;
+  color: var(--text-body);
+  line-height: 1.65;
 }
 
 /* ===== Home page: unified 2x2 grid ===== */
@@ -560,6 +592,106 @@ a:hover {
 @media (max-width: 576px) {
   .screenshot-grid { grid-template-columns: 1fr; }
   .feature-grid { grid-template-columns: 1fr; }
+}
+
+/* ===== Home page: alumni strip ===== */
+.home-alumni {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 5px solid #059669;
+  border-radius: 0 8px 8px 0;
+  padding: 1rem 1.25rem;
+  margin-top: 1.75rem;
+}
+
+.home-alumni .home-news-label {
+  color: #059669;
+  margin-bottom: 0.4rem;
+}
+
+.home-alumni p {
+  margin: 0;
+  font-size: 0.9375rem;
+  color: var(--text-body);
+  line-height: 1.65;
+}
+
+/* ===== Publications ===== */
+.pub-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-top: 1.25rem;
+}
+
+.pub-card {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.25rem 1.4rem;
+  background: var(--bg);
+}
+
+.pub-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 0.35rem;
+  line-height: 1.4;
+}
+
+.pub-title a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.pub-title a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.pub-meta {
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+}
+
+.pub-summary {
+  font-size: 0.875rem;
+  color: var(--text-body);
+  line-height: 1.65;
+  background: var(--surface);
+  border-left: 3px solid var(--accent-light);
+  padding: 0.6rem 0.9rem;
+  border-radius: 0 6px 6px 0;
+  margin-bottom: 0.75rem;
+}
+
+.pub-summary-label {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.25rem;
+  margin-right: 0.5rem;
+}
+
+.pub-links {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.8125rem;
+}
+
+.pub-links a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.pub-links a:hover {
+  color: var(--accent-hover);
+  text-decoration: underline;
 }
 
 /* ===== Footer ===== */

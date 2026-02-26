@@ -4,6 +4,8 @@ title: Team
 permalink: /team/
 ---
 
+<p class="lead">Meet the people behind KSG. For former members, see <a href="/knowledge-systems/alumni">KSG Alumni</a>.</p>
+
 <div class="team-grid">
 
   <div class="team-card">
@@ -127,3 +129,4 @@ permalink: /team/
   </div>
 
 </div>
+
