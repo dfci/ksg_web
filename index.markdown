@@ -69,5 +69,5 @@ We are a software engineering and data science group at Dana-Farber Cancer Insti
 
 <div class="home-alumni">
   <div class="home-news-label">KSG Alumni</div>
-  <p>KSG has launched careers across the industry. Our alumni are now at Google DeepMind, Amazon, Datadog, Foundation Medicine, Caris Life Sciences, and Mass General Brigham — and several have gone on to found their own companies, including <a href="https://savvyn.ai/">Savvyn</a>, <a href="https://genhealth.ai">GenHealth.ai</a>, and <a href="https://www.se4.bio">SE4BIO</a>. <a href="/knowledge-systems/alumni">Meet our alumni →</a></p>
+  <p>KSG has launched careers across the industry. Our alumni are now at Google DeepMind, Amazon, Meta, Datadog, Foundation Medicine, Caris Life Sciences, and Mass General Brigham — and several have gone on to found their own companies, including <a href="https://savvyn.ai/">Savvyn</a>, <a href="https://genhealth.ai">GenHealth.ai</a>, and <a href="https://www.se4.bio">SE4BIO</a>. <a href="/knowledge-systems/alumni">Meet our alumni →</a></p>
 </div>
