@@ -7,7 +7,7 @@ parent_url: /knowledge-systems/team/
 ---
 
 <p class="detail-lead">
-KSG alumni have gone on to found AI startups, lead teams at major tech and biotech companies, and advance precision medicine across the industry. Our former members are now at Google DeepMind, Amazon, Meta, Datadog, Foundation Medicine, Caris Life Sciences, Elucidate Bio, Mass General Brigham, and OncoLens — and several have founded their own companies, including <a href="https://savvyn.ai/">Savvyn</a>, <a href="https://genhealth.ai">GenHealth.ai</a>, and <a href="https://www.se4.bio">SE4BIO</a>.
+KSG alumni have gone on to found AI startups, lead teams at major tech and biotech companies, and advance precision medicine across the industry. Our former members are now at Google DeepMind, Amazon, Meta, AstraZeneca, Datadog, Foundation Medicine, Caris Life Sciences, Elucidate Bio, Mass General Brigham, and OncoLens — and several have founded their own companies, including <a href="https://savvyn.ai/">Savvyn</a>, <a href="https://genhealth.ai">GenHealth.ai</a>, and <a href="https://www.se4.bio">SE4BIO</a>.
 </p>
 
 <div class="team-grid">
@@ -28,10 +28,21 @@ KSG alumni have gone on to found AI startups, lead teams at major tech and biote
       <div class="team-avatar av-5">ES</div>
       <div>
         <div class="team-card-name">Ethan Siegel</div>
-        <div class="alumni-role">Co-Founder — <a href="https://genhealth.ai">GenHealth.ai</a></div>
+        <div class="alumni-role">Co-Founder & Chief Product and Technology Officer — <a href="https://genhealth.ai">GenHealth.ai</a></div>
       </div>
     </div>
-    <p class="team-card-bio">After working at KSG on <a href="/knowledge-systems/matchminer">MatchMiner Genomics</a>, Ethan went on to co-found <a href="https://genhealth.ai">GenHealth.ai</a>.</p>
+    <p class="team-card-bio">After working at KSG on <a href="/knowledge-systems/matchminer">MatchMiner Genomics</a>, Ethan co-founded <a href="https://genhealth.ai">GenHealth.ai</a>, a healthcare startup that helps provider organizations automate back-office workflows, including prior authorization, referral management, revenue cycle management, and eligibility verification. The company also conducts original research on healthcare cost and clinical trajectory prediction using a transformer-based medical model trained on over 50 million patient records. See their <a href="https://arxiv.org/abs/2409.13000">preprint on arXiv</a>.</p>
+  </div>
+
+  <div class="team-card">
+    <div class="team-card-header">
+      <div class="team-avatar av-3">MT</div>
+      <div>
+        <div class="team-card-name">Ming "Tommy" Tang, Ph.D.</div>
+        <div class="alumni-role">Director of Bioinformatics — <a href="https://www.astrazeneca.com">AstraZeneca</a></div>
+      </div>
+    </div>
+    <p class="team-card-bio">At KSG, Tommy led the bioinformatics effort for the NCI <a href="https://cidc.nci.nih.gov">Cancer Immune Monitoring and Analysis Centers (CIMACs) and Cancer Immunologic Data Center (CIDC)</a> Network, collaborating with clinical trial investigators to design and conduct biomarker and correlative studies in cancer immunotherapy trials. Tommy is now Director of Bioinformatics at <a href="https://www.astrazeneca.com">AstraZeneca</a>, where he leads bioinformatics efforts supporting drug development in early oncology. For more information, visit his blog at <a href="https://divingintogeneticsandgenomics.com">Diving into Genetics and Genomics</a>, or find him on <a href="https://x.com/tangming2005">X</a> and <a href="https://www.linkedin.com/in/🎯-ming-tommy-tang-40650014/">LinkedIn</a>.</p>
   </div>
 
   <div class="team-card">

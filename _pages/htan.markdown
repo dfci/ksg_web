@@ -11,6 +11,9 @@ parent_url: /knowledge-systems/projects/
   <span class="project-tag" style="background:#fef9c3; color:#854d0e;">NCI Moonshot</span>
 </div>
 
+<a class="project-link" href="https://humantumoratlas.org/">humantumoratlas.org →</a>&nbsp;&nbsp;
+<a class="project-link" href="https://www.cancer.gov/research/key-initiatives/moonshot-cancer-initiative/implementation/human-tumor-atlas">NCI HTAN →</a>
+
 <p class="detail-lead">
 The Human Tumor Atlas Network (HTAN) is an NCI Cancer Moonshot initiative focused on building three-dimensional atlases of the cellular, morphological, and molecular features of human cancers as they evolve from precancerous lesions to advanced disease. KSG @ Dana-Farber serves as the Data Coordinating Center (DCC) alongside <a href="https://sagebionetworks.org/">Sage Bionetworks</a>, the <a href="https://www.systemsbiology.org/">Institute for Systems Biology</a>, and <a href="https://www.mskcc.org/">Memorial Sloan Kettering Cancer Center</a>.
 </p>
@@ -44,13 +47,30 @@ The Human Tumor Atlas Network (HTAN) is an NCI Cancer Moonshot initiative focuse
   </div>
 </div>
 
+## Screenshots
+
+<div class="screenshot-grid">
+  <div>
+    <div class="screenshot-wrap">
+      <a href="/knowledge-systems/assets/images/htan_hms.png" target="_blank" title="Click to view full size">
+        <img src="/knowledge-systems/assets/images/htan_hms.png" alt="CyCIF colon sample — HTAN HMS Research Center" style="max-height: 220px; width: auto; max-width: 100%; cursor: zoom-in;">
+      </a>
+      <p class="screenshot-caption">CyCIF colon sample from the HTAN Harvard Medical School (HMS) Research Center. Click to enlarge.</p>
+    </div>
+  </div>
+  <div>
+    <div class="screenshot-wrap">
+      <a href="/knowledge-systems/assets/images/htan_msk.png" target="_blank" title="Click to view full size">
+        <img src="/knowledge-systems/assets/images/htan_msk.png" alt="Single cell data — HTAN MSK Center" style="max-height: 220px; width: auto; max-width: 100%; cursor: zoom-in;">
+      </a>
+      <p class="screenshot-caption">Single cell data for small cell lung cancer from the HTAN Memorial Sloan Kettering (MSK) Research Center. Click to enlarge.</p>
+    </div>
+  </div>
+</div>
+
 ## About HTAN
 
 HTAN brings together leading cancer research centers across the United States to study how cancers form, progress, and respond to treatment. Each HTAN center focuses on a specific cancer type or biological question — including colorectal cancer, breast cancer, lung cancer, melanoma, glioblastoma, and others — generating rich multi-omic datasets that are made openly available to the research community.
 
 The network produces data from a wide range of technologies: bulk and single-cell RNA sequencing, whole-genome and targeted DNA sequencing, proteomics, imaging mass cytometry, multiplexed immunofluorescence, and spatial transcriptomics. All data is linked to clinical and pathological annotations and released under FAIR data principles.
 
-## Links
-
-<a class="project-link" href="https://humantumoratlas.org/">humantumoratlas.org →</a>&nbsp;&nbsp;
-<a class="project-link" href="https://www.cancer.gov/research/key-initiatives/moonshot-cancer-initiative/implementation/human-tumor-atlas">NCI HTAN →</a>
