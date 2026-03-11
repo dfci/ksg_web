@@ -163,7 +163,7 @@ KSG alumni have gone on to found AI startups, lead teams at major tech and biote
         <div class="alumni-role">Senior Scientist, Clinical Development — <a href="https://www.foundationmedicine.com">Foundation Medicine</a></div>
       </div>
     </div>
-    <p class="team-card-bio">Rachel is currently a Senior Scientist in Clinical Development at <a href="https://www.foundationmedicine.com">Foundation Medicine</a>.</p>
+    <p class="team-card-bio">After working at KSG on the GI TARGET program and <a href="/knowledge-systems/matchminer/">MatchMiner Genomics</a>, Rachel is now a Senior Scientist in Clinical Development at <a href="https://www.foundationmedicine.com">Foundation Medicine</a>. Rachel leads clinicogenomic research studies and generates clinical evidence to support development, launch, reimbursement, and adoption of oncology molecular profiling solutions.</p>
   </div>
 
   <div class="team-card">
