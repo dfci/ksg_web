@@ -16,11 +16,11 @@ KSG alumni have gone on to found AI startups, lead teams at major tech and biote
     <div class="team-card-header">
       <div class="team-avatar av-1">CF</div>
       <div>
-        <div class="team-card-name">Catherine Del Vecchio Fitz, Ph.D., M.S.M.</div>
+        <div class="team-card-name">Catherine Del Vecchio Fitz, PhD</div>
         <div class="alumni-role">Founder and CEO — <a href="https://savvyn.ai/">Savvyn</a></div>
       </div>
     </div>
-    <p class="team-card-bio">After her time at KSG, Catherine served as SVP of Medical Affairs & Data Insights at Naveris before founding <a href="https://savvyn.ai/">Savvyn</a>, an AI-powered evidence intelligence platform that organizes scientific and clinical data, analyzes policy precedent, and identifies the evidence required to strengthen coverage readiness and accelerate access to new treatments.</p>
+    <p class="team-card-bio">Catherine Del Vecchio Fitz, PhD is the Founder &amp; CEO of <a href="https://savvyn.ai/">Savvyn</a> (savvyn.ai) — built on a simple truth: strong science doesn't guarantee patient impact. The last mile is where breakthroughs stall. Savvyn is the evidence intelligence platform for life sciences: it ingests what a company has built, structures it against the requirements of each decision-maker (payers, regulators, clinicians, investors), and surfaces exactly where the evidence holds up, where it falls short, and what to prioritize next. She founded Savvyn after serving as SVP Medical Affairs &amp; Data Insights at Naveris, and is based in Maine.</p>
   </div>
 
   <div class="team-card">
